@@ -36,6 +36,7 @@ Resources for developers and administrators
 - http://colovely.nofach.com/
 - [Chrome plug-in to generate color palette from images and websites](https://chrome.google.com/webstore/detail/palette-creator/oolpphfmdmjbojolagcbgdemojhcnlod)
 - [material palette](https://www.materialpalette.com/) 
+- [Material Design Palette Generator](http://mcg.mbitson.com/#/)
 
 ## Icons, Graphics, Photos
 
