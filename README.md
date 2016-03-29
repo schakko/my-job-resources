@@ -2,13 +2,25 @@
 Resources for developers and administrators
 
 # Development
+## Java
+
+- [Java Version Manager inspired by nvm](https://github.com/shyiko/jabba)
+
 ## Charts
-- https://csnw.github.io/d3.compose/ - Compose complex, data-driven visualizations from reusable charts and components with d3.
+
+- [Compose complex, data-driven visualizations from reusable charts and components with d3.](https://csnw.github.io/d3.compose/)
+
 # Project management
-- https://github.com/philschatz/gh-board - Serverless Kanban for GitHub Issues using gh-pages
+- [Serverless Kanban for GitHub Issues using gh-pages](https://github.com/philschatz/gh-board)
+
 # Administration
 ## Network
+
 - https://cloudcraft.co/
+
+## Remote
+
+- [SSH for Clusters and Teams](http://gravitational.com/teleport/)
 
 # UI & Design
 
@@ -20,20 +32,31 @@ Resources for developers and administrators
 
 ## Fonts
 ## Colors
+
+- http://colovely.nofach.com/
+- [Chrome plug-in to generate color palette from images and websites](https://chrome.google.com/webstore/detail/palette-creator/oolpphfmdmjbojolagcbgdemojhcnlod)
+- [material palette](https://www.materialpalette.com/) 
+
 ## Icons, Graphics, Photos
 
 - http://www.freepik.com/ - Search engine for free vector graphics, PSDs, icons and photos
- 
+- http://webalys.com/ - Free icons
+
 # Collections
 
-- https://www.hellobonsai.com/best-freelance-tools - Tool stack for freelancers
-
+- [Tool stack for freelancers](https://www.hellobonsai.com/best-freelance-tools)
+- [a list of Free Software network services and web applications which can be hosted locally](https://github.com/Kickball/awesome-selfhosted)
+- [An awesome curated list of open source crafted web applications](https://github.com/unicodeveloper/awesome-opensource-webapps)
 # Skills
 ## Teaching
 
-- http://josephg.com/blog/what-i-tell-all-new-programmers/ - What I tell all new programmers
+- [What I tell all new programmers](http://josephg.com/blog/what-i-tell-all-new-programmers/)
+
+## Communication
+
+- [How to remove conflict from conversations when people doubt or challenge you](https://www.reddit.com/r/everymanshouldknow/comments/2yvlbo/emsk_how_to_remove_conflict_from_conversations/)
 
 ## Writing
 
-- https://www.portent.com/tools/title-maker - Content idea generator
-- http://www.sketchdeck.com/blog/after-10000-data-points-we-figured-out-how-to-write-a-perfect-medium-post/ - After 10,000+ data points, we figured out how to write a perfect Medium post
+- [Content idea generator](https://www.portent.com/tools/title-maker)
+- [After 10,000+ data points, we figured out how to write a perfect Medium post](http://www.sketchdeck.com/blog/after-10000-data-points-we-figured-out-how-to-write-a-perfect-medium-post/)
