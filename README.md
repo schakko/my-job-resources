@@ -9,13 +9,13 @@ Resources for developers and administrators
 # Administration
 ## Network
 - https://cloudcraft.co/
-- 
+
 # UI & Design
+
 - http://uxdesign.cc/
 - http://www.mobile-patterns.com/
-- 
-## Templates & Themes
 
+## Templates & Themes
 - http://www.bootstrapzero.com/ - Twitter Bootstrap based themes
 
 ## Fonts
@@ -30,7 +30,9 @@ Resources for developers and administrators
 
 # Skills
 ## Teaching
+
 - http://josephg.com/blog/what-i-tell-all-new-programmers/ - What I tell all new programmers
+
 ## Writing
 
 - https://www.portent.com/tools/title-maker - Content idea generator
