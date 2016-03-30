@@ -9,6 +9,7 @@ Resources for developers and administrators
 ## Charts
 
 - [Compose complex, data-driven visualizations from reusable charts and components with d3.](https://csnw.github.io/d3.compose/)
+- [Reddit DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful/)
 
 # Project management
 - [Serverless Kanban for GitHub Issues using gh-pages](https://github.com/philschatz/gh-board)
