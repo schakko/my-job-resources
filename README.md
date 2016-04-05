@@ -12,8 +12,12 @@ Resources for developers and administrators
 - [Reddit DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful/)
 
 # Project management
+
 - [Serverless Kanban for GitHub Issues using gh-pages](https://github.com/philschatz/gh-board)
 
+## Scrum
+
+- [Retromat - Plans for retrospectives](http://plans-for-retrospectives.com/)
 # Administration
 ## Network
 
@@ -49,7 +53,9 @@ Resources for developers and administrators
 - [Tool stack for freelancers](https://www.hellobonsai.com/best-freelance-tools)
 - [a list of Free Software network services and web applications which can be hosted locally](https://github.com/Kickball/awesome-selfhosted)
 - [An awesome curated list of open source crafted web applications](https://github.com/unicodeveloper/awesome-opensource-webapps)
+
 # Skills
+
 ## Teaching
 
 - [What I tell all new programmers](http://josephg.com/blog/what-i-tell-all-new-programmers/)
@@ -62,3 +68,4 @@ Resources for developers and administrators
 
 - [Content idea generator](https://www.portent.com/tools/title-maker)
 - [After 10,000+ data points, we figured out how to write a perfect Medium post](http://www.sketchdeck.com/blog/after-10000-data-points-we-figured-out-how-to-write-a-perfect-medium-post/)
+- [Readability Tests of a Website](http://juicystudio.com/services/readability.php)
