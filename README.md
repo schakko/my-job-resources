@@ -15,14 +15,17 @@ Resources for developers and administrators
 
 - [Compose complex, data-driven visualizations from reusable charts and components with d3.](https://csnw.github.io/d3.compose/)
 - [Reddit DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful/)
+- [Caravel - a data exploration platform designed to be visual, intuitive, and interactive](https://github.com/airbnb/caravel)
 
 # Project management
 
 - [Serverless Kanban for GitHub Issues using gh-pages](https://github.com/philschatz/gh-board)
+- [Rocket Chat - Open source alternative to Slack](https://rocket.chat)
 
 ## Scrum
 
 - [Retromat - Plans for retrospectives](http://plans-for-retrospectives.com/)
+
 # Administration
 ## Network
 
@@ -31,6 +34,11 @@ Resources for developers and administrators
 ## Remote
 
 - [SSH for Clusters and Teams](http://gravitational.com/teleport/)
+
+## Various
+
+- [You-Get - a command line YouTube downloader](http://you-get.org/)
+
 
 # UI & Design
 
