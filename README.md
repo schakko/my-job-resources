@@ -6,6 +6,11 @@ Resources for developers and administrators
 
 - [Java Version Manager inspired by nvm](https://github.com/shyiko/jabba)
 
+## JavaScript
+
+- [Saga - Java Code Coverage Tool for JavaScript](http://timurstrekalov.github.io/saga/)
+
+
 ## Charts
 
 - [Compose complex, data-driven visualizations from reusable charts and components with d3.](https://csnw.github.io/d3.compose/)
@@ -34,6 +39,7 @@ Resources for developers and administrators
 
 ## Templates & Themes
 - http://www.bootstrapzero.com/ - Twitter Bootstrap based themes
+- [Free Bootstrap 3 Admin Templates](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
 
 ## Fonts
 ## Colors
