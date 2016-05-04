@@ -6,6 +6,20 @@ Resources for developers and administrators
 
 - [Java Version Manager inspired by nvm](https://github.com/shyiko/jabba)
 
+### Architecture
+
+- [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
+
+### Database
+
+- [datasource-proxy: Logging SQL statements and bind parameters](https://github.com/ttddyy/datasource-proxy)
+
+### Testing
+
+- [System Rules -
+A collection of JUnit rules for testing code that uses java.lang.System](http://stefanbirkner.github.io/system-rules/)
+- [Capturing console output with Spring Boot and JUnit rules](https://github.com/spring-projects/spring-boot/blob/master/spring-boot-test/src/main/java/org/springframework/boot/test/rule/OutputCapture.java)
+ 
 ## JavaScript
 
 - [Saga - Java Code Coverage Tool for JavaScript](http://timurstrekalov.github.io/saga/)
@@ -38,7 +52,7 @@ Resources for developers and administrators
 ## Various
 
 - [You-Get - a command line YouTube downloader](http://you-get.org/)
-
+- [400 free ressources for SysAdmins and DevOps](https://medium.com/@MorpheusData/400-free-resources-for-devops-2e2ecf52e64a#.3sdvu8qt5)
 
 # UI & Design
 
@@ -48,6 +62,7 @@ Resources for developers and administrators
 ## Templates & Themes
 - http://www.bootstrapzero.com/ - Twitter Bootstrap based themes
 - [Free Bootstrap 3 Admin Templates](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
+- [Bootstrap Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)
 
 ## Fonts
 ## Colors
