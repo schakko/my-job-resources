@@ -10,6 +10,13 @@ Resources for developers and administrators
 
 - [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 
+### Machine Learning
+
+- [Smile - Statistical Machine Intelligence and Learning Engine](http://haifengl.github.io/smile/index.html)
+- [Deeplearning4j](http://deeplearning4j.org/)
+- [DeepDive](http://deepdive.stanford.edu/)
+- [PredictionIO](https://docs.prediction.io/templates/recommendation/quickstart/)
+
 ### Database
 
 - [datasource-proxy: Logging SQL statements and bind parameters](https://github.com/ttddyy/datasource-proxy)
