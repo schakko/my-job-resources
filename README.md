@@ -35,7 +35,7 @@ A collection of JUnit rules for testing code that uses java.lang.System](http://
 ## JavaScript
 
 - [Saga - Java Code Coverage Tool for JavaScript](http://timurstrekalov.github.io/saga/)
-
+- [Online Book "You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Charts
 
@@ -53,6 +53,12 @@ A collection of JUnit rules for testing code that uses java.lang.System](http://
 - [Retromat - Plans for retrospectives](http://plans-for-retrospectives.com/)
 
 # Administration
+
+## General
+
+- [Book "Windows Sysinternals Administrator's Reference"](https://www.amazon.de/Windows-Sysinternals-Administrators-Reference-Russinovich/dp/073565672X/ref=sr_1_1?ie=UTF8&qid=1466845786&sr=8-1&keywords=sysinternals)
+
+
 ## Network
 
 - https://cloudcraft.co/
@@ -65,6 +71,7 @@ A collection of JUnit rules for testing code that uses java.lang.System](http://
 
 - [You-Get - a command line YouTube downloader](http://you-get.org/)
 - [400 free ressources for SysAdmins and DevOps](https://medium.com/@MorpheusData/400-free-resources-for-devops-2e2ecf52e64a#.3sdvu8qt5)
+- [Digdag.io - Run and monitor complex pipelines](http://www.digdag.io/)
 
 # UI & Design
 
