@@ -10,6 +10,7 @@ Resources for developers and administrators
 ## Java
 
 - [Java Version Manager inspired by nvm](https://github.com/shyiko/jabba)
+- [Book "Optimizing Java"](https://www.amazon.de/Optimizing-Java-Practical-Techniques-Performance/dp/1491933321/ref=sr_1_1?ie=UTF8&qid=1466846204&sr=8-1&keywords=optimizing+java)
 
 ### Architecture
 
@@ -57,7 +58,7 @@ A collection of JUnit rules for testing code that uses java.lang.System](http://
 ## General
 
 - [Book "Windows Sysinternals Administrator's Reference"](https://www.amazon.de/Windows-Sysinternals-Administrators-Reference-Russinovich/dp/073565672X/ref=sr_1_1?ie=UTF8&qid=1466845786&sr=8-1&keywords=sysinternals)
-
+- [Book "Windows Internals"](https://www.amazon.de/Windows%C2%AE-Internals-Book-User-Mode/dp/0735684189/ref=sr_1_1?ie=UTF8&qid=1466846048&sr=8-1&keywords=windows+internals)
 
 ## Network
 
@@ -72,6 +73,10 @@ A collection of JUnit rules for testing code that uses java.lang.System](http://
 - [You-Get - a command line YouTube downloader](http://you-get.org/)
 - [400 free ressources for SysAdmins and DevOps](https://medium.com/@MorpheusData/400-free-resources-for-devops-2e2ecf52e64a#.3sdvu8qt5)
 - [Digdag.io - Run and monitor complex pipelines](http://www.digdag.io/)
+
+## Web
+
+- [Book "NGINX High Performance](https://www.amazon.de/NGINX-High-Performance-Rahul-Sharma/dp/1785281836/ref=sr_1_2?ie=UTF8&qid=1466846267&sr=8-2&keywords=nginx+high+performance)
 
 # UI & Design
 
