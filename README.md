@@ -2,15 +2,20 @@
 Resources for developers and administrators
 
 # Development
+
+## General
+- [Professional Software Development for Students - Free Book](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
+
 ## MDA
 
 - [simpl4 - business process goes HTML5 (BPMN/Activiti, Java])https://github.com/ms123s/simpl4-src
-
 
 ## Java
 
 - [Java Version Manager inspired by nvm](https://github.com/shyiko/jabba)
 - [Book "Optimizing Java"](https://www.amazon.de/Optimizing-Java-Practical-Techniques-Performance/dp/1491933321/ref=sr_1_1?ie=UTF8&qid=1466846204&sr=8-1&keywords=optimizing+java)
+- [Failsafe - a lightweight failure handling library](https://github.com/jhalterman/failsafe)
+- [Lamma Date - Date generation library for recurring dates](http://www.lamma.io/)
 
 ### Architecture
 
@@ -38,6 +43,15 @@ A collection of JUnit rules for testing code that uses java.lang.System](http://
 - [Saga - Java Code Coverage Tool for JavaScript](http://timurstrekalov.github.io/saga/)
 - [Online Book "You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
+## PHP
+
+### WordPress
+
+- [WP-CLI - Command Line Interface for WordPress](http://wp-cli.org/)
+- [Wordmove - Mirror local WordPress instances to staging servers](https://github.com/welaika/wordmove)
+- [WPDistillery - WordPress Setup runner for Scotch Box](https://github.com/flurinduerst/WPDistillery)
+- [Tailor - Create amazing custom layouts](http://gettailor.com/)
+
 ## Charts
 
 - [Compose complex, data-driven visualizations from reusable charts and components with d3.](https://csnw.github.io/d3.compose/)
@@ -60,6 +74,7 @@ A collection of JUnit rules for testing code that uses java.lang.System](http://
 - [Book "Windows Sysinternals Administrator's Reference"](https://www.amazon.de/Windows-Sysinternals-Administrators-Reference-Russinovich/dp/073565672X/ref=sr_1_1?ie=UTF8&qid=1466845786&sr=8-1&keywords=sysinternals)
 - [Book "Windows Internals"](https://www.amazon.de/Windows%C2%AE-Internals-Book-User-Mode/dp/0735684189/ref=sr_1_1?ie=UTF8&qid=1466846048&sr=8-1&keywords=windows+internals)
 - [Book "Active Directory: Designing, Deploying, and Running Active Directory" __must read__](https://www.amazon.de/Active-Directory-Designing-Deploying-Running/dp/1449320023/ref=sr_1_2?ie=UTF8&qid=1466848561&sr=8-2&keywords=active+directory)
+- [Baretail - Tail for Windows](https://www.baremetalsoft.com/baretail/)
 
 ## Network
 
@@ -74,6 +89,7 @@ A collection of JUnit rules for testing code that uses java.lang.System](http://
 - [You-Get - a command line YouTube downloader](http://you-get.org/)
 - [400 free ressources for SysAdmins and DevOps](https://medium.com/@MorpheusData/400-free-resources-for-devops-2e2ecf52e64a#.3sdvu8qt5)
 - [Digdag.io - Run and monitor complex pipelines](http://www.digdag.io/)
+- [MusicDownloader - Download music from TV shows per CLI](https://github.com/anshul17khanna/Music-Downloader)
 
 ## Web
 
@@ -118,6 +134,14 @@ A collection of JUnit rules for testing code that uses java.lang.System](http://
 
 # Skills
 
+## Organization 
+
+- [Healthy Org Questions](http://pastebin.com/ueLdcVmQ)
+
+## Finance
+
+- [VAT for European #SaaS founders: here’s what you need to know](http://www.whiteboardmag.com/what-you-should-know-about-vat-as-a-european-startup-founder/)
+
 ## Teaching
 
 - [What I tell all new programmers](http://josephg.com/blog/what-i-tell-all-new-programmers/)
@@ -125,6 +149,7 @@ A collection of JUnit rules for testing code that uses java.lang.System](http://
 ## Communication
 
 - [How to remove conflict from conversations when people doubt or challenge you](https://www.reddit.com/r/everymanshouldknow/comments/2yvlbo/emsk_how_to_remove_conflict_from_conversations/)
+- [Premium phone numbers over SIP](https://www.eurocall24.com/)
 
 ## Writing
 
