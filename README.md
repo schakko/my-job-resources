@@ -18,10 +18,10 @@ Resources for developers and administrators
 - [Windows](administration-windows.md)
 - [Web topics](administration-web.md)
 
-## Tools & Applications
+## Tools, Applications, Stuff
 
 - [WordPress](wordpress.md)
-- [Various tools](various.md)
+- [Various tools and stuff](tools.md)
 
 ## User Interfaces
 

@@ -1,13 +1,5 @@
 # Skills
 
-## Organization 
-
-- [Healthy Org Questions](http://pastebin.com/ueLdcVmQ)
-
-## Finance
-
-- [VAT for European #SaaS founders: here’s what you need to know](http://www.whiteboardmag.com/what-you-should-know-about-vat-as-a-european-startup-founder/)
-
 ## Teaching
 
 - [What I tell all new programmers](http://josephg.com/blog/what-i-tell-all-new-programmers/)
