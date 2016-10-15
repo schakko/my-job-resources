@@ -16,6 +16,7 @@
 ## Storage
 
 - [Build HA storage with ZFS](https://github.com/ewwhite/zfs-ha/wiki)
+- [minio.io - S3 compatible open source storage server](https://minio.io)
 
 ## Security
 
