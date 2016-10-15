@@ -22,4 +22,6 @@
 
 - [VAT for European #SaaS founders: here’s what you need to know](http://www.whiteboardmag.com/what-you-should-know-about-vat-as-a-european-startup-founder/)
 
+## Salary
 
+- [Never accept a counter offer](https://vtorosyan.github.io/never-accept-counter-offer/)
