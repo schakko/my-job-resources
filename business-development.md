@@ -1,5 +1,9 @@
 # Business Development
 
+## Philosophy 
+
+- [Why I Say No to Big-Money Customers](http://www.inc.com/magazine/201606/jason-fried/saying-no-to-large-enterprise-customers.html)
+
 ## Organization 
 
 - [Healthy Org Questions](http://pastebin.com/ueLdcVmQ)
