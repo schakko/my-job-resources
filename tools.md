@@ -7,6 +7,7 @@
 - [Digdag.io - Run and monitor complex pipelines](http://www.digdag.io/)
 - [MusicDownloader - Download music from TV shows per CLI](https://github.com/anshul17khanna/Music-Downloader)
 - [EZ Map - Generate Google Maps code](https://ezmap.co/)
+- [Tagspaces - Open source note taking web app](https://tagspaces.og/)
 
 ## Reverse Engineering
 
