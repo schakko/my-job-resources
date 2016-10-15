@@ -3,6 +3,7 @@
 ## Philosophy 
 
 - [Why I Say No to Big-Money Customers](http://www.inc.com/magazine/201606/jason-fried/saying-no-to-large-enterprise-customers.html)
+- [Less stress, more productivity: why working fewer hours is better for you and your employer](https://codewithoutrules.com/2016/08/18/productive-programmer/)
 
 ## Organization 
 
