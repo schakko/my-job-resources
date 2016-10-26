@@ -7,3 +7,6 @@
 - [WPDistillery - WordPress Setup runner for Scotch Box](https://github.com/flurinduerst/WPDistillery)
 - [Tailor - Create amazing custom layouts](http://gettailor.com/)
 
+## Themes
+
+- [ionMag Theme - Open Source premium theme](https://github.com/tagDiv/ionMag)
