@@ -9,6 +9,7 @@ Resources for developers and administrators
 
 ## Databases
 
+- [General](databases.md)
 - [Graph databases](databases-graph.md)
 
 ## Administration
