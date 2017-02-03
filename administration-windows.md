@@ -2,6 +2,9 @@
 
 - [Baretail - Tail for Windows](https://www.baremetalsoft.com/baretail/)
 
+## Privacy
+- [Reclaim Windows 10 - PowerShell Gist](https://gist.github.com/alirobe/7f3b34ad89a159e6daa1)
+
 ## Books
 
 - [Book "Windows Sysinternals Administrator's Reference"](https://www.amazon.de/Windows-Sysinternals-Administrators-Reference-Russinovich/dp/073565672X/ref=sr_1_1?ie=UTF8&qid=1466845786&sr=8-1&keywords=sysinternals)
