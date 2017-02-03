@@ -6,6 +6,7 @@
 - [71 Ways to get media coverage ](http://www.cision.com/us/resources/tip-sheets/71-ways-to-get-media-coverage)
 - [octo.ai - The analytics hypervisor, an operating system to manage all your analytics needs](https://github.com/octoai/octo.ai)
 - [19 companies reveal their full marketing stack](http://www.growhack.com/2016/07/19-companies-reveal-their-marketing-tools/#.V6Bir3NCTqB)
+- [The Developer Marketing Guide](http://devmarketingguide.com/)
 
 ## Sales
 
