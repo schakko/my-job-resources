@@ -4,7 +4,7 @@
 - [Automatically test your database backups](https://marco.org/2017/02/01/db-backup-testing)
 
 ### PostgreSQL
-- [barman - backup and recovery manager for PostgreSQL](http://www.pgbarman.org/
+- [barman - backup and recovery manager for PostgreSQL](http://www.pgbarman.org/)
 
 ## Scaling
 
