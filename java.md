@@ -28,3 +28,7 @@
 ## Integration
 
 - [JBot - Build Slack Bots with Java](https://github.com/ramswaroop/jbot/blob/master/README.md)
+
+## Security
+
+- [KeyStore Explorer - an open source GUI replacement for the Java command-line utilities keytool and jarsigner.](http://keystore-explorer.org/)
