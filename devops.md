@@ -1,7 +1,5 @@
 # DevOps
 
-- [So You’ve Been Paged: A Guide to Incident Response (For Those Who Hate Being Paged)](http://blog.scalyr.com/2016/09/so-youve-been-paged/)
-
 ## Infrastructure
 
 
@@ -12,7 +10,8 @@
 
 - [healthcheck.io - Open source service monitoring](https://github.com/healthchecks/healthchecks)
 
-## Documentation
+## Incident management
 
+- [So You’ve Been Paged: A Guide to Incident Response (For Those Who Hate Being Paged)](http://blog.scalyr.com/2016/09/so-youve-been-paged/)
 - [PagerDuty Incident Response process](https://response.pagerduty.com/)
 
