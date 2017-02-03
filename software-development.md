@@ -18,6 +18,7 @@
 - [DeepDive](http://deepdive.stanford.edu/)
 - [PredictionIO](https://docs.prediction.io/templates/recommendation/quickstart/)
 - [Gandalf - Open-Source Decision Engine for Big-Data](https://gndf.io/)
+- [keras.io - Deep Learning Library for Theano and TensorFlow](https://keras.io/)
 
 ## Visualization
 
