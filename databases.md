@@ -5,6 +5,7 @@
 
 ### PostgreSQL
 - [barman - backup and recovery manager for PostgreSQL](http://www.pgbarman.org/)
+- [The Internals of PostgreSQL](http://www.interdb.jp/pg/)
 
 ## Scaling
 
