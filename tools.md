@@ -12,3 +12,7 @@
 ## Reverse Engineering
 
 - [Reverse Engineering a Bluetooth Lightbulb](https://medium.com/@urish/reverse-engineering-a-bluetooth-lightbulb-56580fcb7546#.z2u1s6end)
+
+## Development
+
+- [httpie - command line HTTP client](https://httpie.org/)
