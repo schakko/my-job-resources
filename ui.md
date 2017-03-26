@@ -16,6 +16,7 @@
 - [Chrome plug-in to generate color palette from images and websites](https://chrome.google.com/webstore/detail/palette-creator/oolpphfmdmjbojolagcbgdemojhcnlod)
 - [material palette](https://www.materialpalette.com/) 
 - [Material Design Palette Generator](http://mcg.mbitson.com/#/)
+- [Colormind - Palette Generator with Deep Learning](http://colormind.io/)
 
 ## Icons, Graphics, Photos
 
