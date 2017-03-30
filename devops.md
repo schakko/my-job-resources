@@ -9,6 +9,7 @@
 ## Monitoring
 
 - [healthcheck.io - Open source service monitoring](https://github.com/healthchecks/healthchecks)
+- [Blog article about anomaly detection with Skyline and Oculus](https://codeascraft.com/2013/06/11/introducing-kale/)
 
 ## Incident management
 
