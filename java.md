@@ -20,6 +20,7 @@
 - [Capturing console output with Spring Boot and JUnit rules](https://github.com/spring-projects/spring-boot/blob/master/spring-boot-test/src/main/java/org/springframework/boot/test/rule/OutputCapture.java)
 - [Unit tests with Excel as datasource](http://www.adam-bien.com/roller/abien/entry/using_excel_as_source_for)
 - [ff4j - Feature Flipping for Java](http://ff4j.org)
+- [ArchUnit - JUnit library for testing architecture of Java applications](github.com/tng/archunit)
 
 ## Monitoring
 
