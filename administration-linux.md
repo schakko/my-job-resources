@@ -11,3 +11,8 @@
 ## Performance
 
 - [Avoiding CPU Scaling](https://www.servernoobs.com/avoiding-cpu-speed-scaling-in-modern-linux-distributions-running-cpu-at-full-speed-tips/)
+
+
+## Logging
+
+- [Graduate from Sed and Sort to Lnav, the Logfile Navigator](http://innolitics.com/10x/graduate-from-sed-and-sort-to-lnav-the-logfile-navigator/)
