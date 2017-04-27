@@ -16,7 +16,7 @@
 
 ## Employees
 
-- [German article "Wer öfter fragt, hat motiviertere Mitarbeiter")(http://www.faz.net/aktuell/beruf-chance/arbeitswelt/management-wer-oefter-fragt-hat-motiviertere-mitarbeiter-14416568.html)
+- [German article "Wer öfter fragt, hat motiviertere Mitarbeiter"](http://www.faz.net/aktuell/beruf-chance/arbeitswelt/management-wer-oefter-fragt-hat-motiviertere-mitarbeiter-14416568.html)
 - [German article "SAP will Mitarbeitern keine Noten mehr geben"](http://m.faz.net/aktuell/wirtschaft/unternehmen/sap-will-mitarbeitern-kuenftig-keine-noten-mehr-geben-14387186.html)
 - [Is There Any Room for the Not-Passionate Developer?](http://philippe.bourgau.net/is-there-any-room-for-the-not-passionate-developer/)
 
