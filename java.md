@@ -4,6 +4,7 @@
 - [Book "Optimizing Java"](https://www.amazon.de/Optimizing-Java-Practical-Techniques-Performance/dp/1491933321/ref=sr_1_1?ie=UTF8&qid=1466846204&sr=8-1&keywords=optimizing+java)
 - [Failsafe - a lightweight failure handling library](https://github.com/jhalterman/failsafe)
 - [Lamma Date - Date generation library for recurring dates](http://www.lamma.io/)
+- [vavr.io - Scala features for Java 8](http://www.vavr.io/)
 
 ## Spring
 
