@@ -3,6 +3,7 @@
 ## Teaching
 
 - [What I tell all new programmers](http://josephg.com/blog/what-i-tell-all-new-programmers/)
+- [Karuta - Open Source Portfolio Tool](http://karutaproject.org)
 
 ## Communication
 
