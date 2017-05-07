@@ -20,6 +20,7 @@
 - [Gandalf - Open-Source Decision Engine for Big-Data](https://gndf.io/)
 - [keras.io - Deep Learning Library for Theano and TensorFlow](https://keras.io/)
 - [Machine learning for software developers - A complete daily plan for studying to become a machine learning engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+- [Practical Deep Learning Course](http://course.fast.ai)
 
 ## Visualization
 
