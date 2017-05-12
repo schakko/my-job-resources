@@ -7,9 +7,13 @@
 
 - [simpl4 - business process goes HTML5 (BPMN/Activiti, Java)](https://github.com/ms123s/simpl4-src)
 
+## Prototyping
+- [admin-on-rest - A frontend Framework for building admin applications running in the browser on top of REST services, using ES6, React and Material Design](https://github.com/marmelab/admin-on-rest)
+
 ## Architecture
 
 - [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
+
 
 ## Machine Learning
 
