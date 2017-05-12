@@ -16,6 +16,7 @@
 ## Development
 
 - [httpie - command line HTTP client](https://httpie.org/)
+- [Insomnie REST client (free)](https://insomnia.rest/)
 
 ## Business
 
