@@ -5,6 +5,7 @@
 - [Failsafe - a lightweight failure handling library](https://github.com/jhalterman/failsafe)
 - [Lamma Date - Date generation library for recurring dates](http://www.lamma.io/)
 - [vavr.io - Scala features for Java 8](http://www.vavr.io/)
+- [javers - Versioning/historizing framework for Java entities)(http://javers.org/)
 
 ## Spring
 
