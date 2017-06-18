@@ -12,6 +12,7 @@
 
 - [Tips for selling your side project](http://codeandtechno.com/posts/tips-for-selling-your-side-project/)
 - [Sales for Nerds - How to sell as a nerd](http://www.salesfornerds.io/)
+- [servicebot.io - A Platform to Sell Your Services. Subscription billing.Self-service customer portal.Service lifecycle management.](https://servicebot.io/)
 
 ## Motivation
 
