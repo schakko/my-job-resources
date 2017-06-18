@@ -29,6 +29,7 @@
 ## Visualization
 
 - [UML Designer](http://www.umldesigner.org/)
+- [vexlio - Instantly create precise, beautiful diagrams](https://vexlio.com/)
 
 ## Code Quality
 
