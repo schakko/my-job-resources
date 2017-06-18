@@ -33,3 +33,7 @@
 ## Code Quality
 
 - [Revue.io - github code review tool](https://revue.io)
+
+## REST / APIs
+
+- [Best Practices for API Error Handling](http://nordicapis.com/best-practices-api-error-handling/)
