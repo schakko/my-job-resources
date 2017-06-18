@@ -22,3 +22,7 @@
 ## Business
 
 - [ambar - Open Source document management system](https://github.com/RD17/ambar) 
+
+## Social Network
+
+- [monica - Monica makes it easy to remember everything about your friends and family.](https://monicahq.com/)
