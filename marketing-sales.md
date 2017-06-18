@@ -16,3 +16,5 @@
 ## Motivation
 
 - [Ask HN: Do you have a side project you want to sell?](https://news.ycombinator.com/item?id=7656154)
+- [How we grew ThemeIsle into a $50,000 per month business
+](https://medium.com/@hackinglife7/how-we-grew-themeisle-into-a-50-000-per-month-business-3e94ffe2f8e4)
