@@ -18,6 +18,7 @@
 
 - [httpie - command line HTTP client](https://httpie.org/)
 - [Insomnie REST client (free)](https://insomnia.rest/)
+- [Vecta - diagramming for teams](https://vecta.io/)
 
 ## Business
 
