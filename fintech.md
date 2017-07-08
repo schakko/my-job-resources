@@ -6,6 +6,7 @@
 - [augur.com - Prophetr-like platform](http://www.augur.com)
 - [gnosis - another prophetr-like platform](https://gnosis.pm/)
 - [dapps for beginners - develop your own Ethereum smart contract](https://dappsforbeginners.wordpress.com/)
+- [Good HN comment of what Ethereum "Gas" is](https://news.ycombinator.com/item?id=14724257)
 
 ## Integration
 
