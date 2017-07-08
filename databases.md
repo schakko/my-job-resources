@@ -7,6 +7,8 @@
 - [barman - backup and recovery manager for PostgreSQL](http://www.pgbarman.org/)
 - [The Internals of PostgreSQL](http://www.interdb.jp/pg/)
 - [Postgrest - REST interface for Postgres databases](https://postgrest.com)
+- [Tuning PostgreSQL queries](https://www.kaoruk.com/posts/06-18-2017-tuning-postgresql-queries)
+- [Deep dive into PostgreSQL stats](http://blog.postgresql-consulting.com/2017/02/deep-dive-into-postgres-stats.html?m=1)
 
 ## Scaling
 
