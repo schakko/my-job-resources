@@ -13,6 +13,7 @@
 ## Architecture
 
 - [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
+- [Assuring architectural rules with archunit](http://www.hascode.com/2017/07/assuring-architectural-rules-with-archunit/)
 
 
 ## Machine Learning
