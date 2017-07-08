@@ -3,6 +3,7 @@
 ## Analysis
 
 - [brendangregg.com - Linux Performance](http://www.brendangregg.com/linuxperf.html)
+- [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
 
 ## Scripting
 
