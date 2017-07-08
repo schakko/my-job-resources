@@ -18,7 +18,10 @@
 
 - [httpie - command line HTTP client](https://httpie.org/)
 - [Insomnie REST client (free)](https://insomnia.rest/)
+
+## Diagramms
 - [Vecta - diagramming for teams](https://vecta.io/)
+- [Pencil - opensource tool for making diagrams and GUI prototyping](https://github.com/evolus/pencil)
 
 ## Business
 
