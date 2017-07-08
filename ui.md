@@ -29,3 +29,6 @@
 - [a list of Free Software network services and web applications which can be hosted locally](https://github.com/Kickball/awesome-selfhosted)
 - [An awesome curated list of open source crafted web applications](https://github.com/unicodeveloper/awesome-opensource-webapps)
 
+## Components
+
+- [Designing a perfect date/time picker](https://www.smashingmagazine.com/2017/07/designing-perfect-date-time-picker/)
