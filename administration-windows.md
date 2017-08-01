@@ -20,3 +20,4 @@
 ## Debugging
 
 - [Debugging Windows Performance issues with ETW](https://randomascii.wordpress.com/)
+- [Microsoft Service Trace Viewer](https://blogs.msdn.microsoft.com/aszego/2010/02/01/tool-of-the-month-microsoft-service-trace-viewer/)
