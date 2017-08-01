@@ -14,3 +14,9 @@
 ## Active Directory
 
 - [REST API for Active Directory based upon node.js](https://github.com/dthree/addict)
+- [Best Practices of Securing Active Directory](https://docs.microsoft.com/de-de/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
+
+
+## Debugging
+
+- [Debugging Windows Performance issues with ETW](https://randomascii.wordpress.com/)
