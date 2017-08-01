@@ -7,6 +7,7 @@
 - [gnosis - another prophetr-like platform](https://gnosis.pm/)
 - [dapps for beginners - develop your own Ethereum smart contract](https://dappsforbeginners.wordpress.com/)
 - [Good HN comment of what Ethereum "Gas" is](https://news.ycombinator.com/item?id=14724257)
+- [Ethereum Smart Contracts in a Nutshell](http://linuxforme.com/ethereum-smart-contracts-in-a-nutshell-for-hackers.html)
 
 ## Integration
 
