@@ -10,6 +10,7 @@
 - [Tuning PostgreSQL queries](https://www.kaoruk.com/posts/06-18-2017-tuning-postgresql-queries)
 - [Deep dive into PostgreSQL stats](http://blog.postgresql-consulting.com/2017/02/deep-dive-into-postgres-stats.html?m=1)
 - [Postgres Query Plan Visualization](http://tatiyants.com/postgres-query-plan-visualization/)
+- [Customizing my Postgres Shell](https://www.citusdata.com/blog/2017/07/16/customizing-my-postgres-shell-using-psqlrc/)
 
 ## Scaling
 
