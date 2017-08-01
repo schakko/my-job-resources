@@ -9,6 +9,7 @@
 - [Postgrest - REST interface for Postgres databases](https://postgrest.com)
 - [Tuning PostgreSQL queries](https://www.kaoruk.com/posts/06-18-2017-tuning-postgresql-queries)
 - [Deep dive into PostgreSQL stats](http://blog.postgresql-consulting.com/2017/02/deep-dive-into-postgres-stats.html?m=1)
+- [Postgres Query Plan Visualization](http://tatiyants.com/postgres-query-plan-visualization/)
 
 ## Scaling
 
