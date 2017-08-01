@@ -22,3 +22,4 @@
 ## Security
 
 - [Cryptosense - Web app for discovering network realms](https://discovery.cryptosense.com/)
+- [Decentralized team passwords with Keepass and Syncthing](https://www.synyx.de/blog/2017-07-12-keepass-team-sync/)
