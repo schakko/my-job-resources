@@ -8,6 +8,7 @@
 - [dapps for beginners - develop your own Ethereum smart contract](https://dappsforbeginners.wordpress.com/)
 - [Good HN comment of what Ethereum "Gas" is](https://news.ycombinator.com/item?id=14724257)
 - [Ethereum Smart Contracts in a Nutshell](http://linuxforme.com/ethereum-smart-contracts-in-a-nutshell-for-hackers.html)
+- [How to create a private Ethereum network](https://omarmetwally.wordpress.com/2017/07/25/how-to-create-a-private-ethereum-network/)
 
 ## Integration
 
