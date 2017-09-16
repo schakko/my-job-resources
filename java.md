@@ -11,6 +11,7 @@
 
 - [Microservice-Architekturen visualisieren: Ordina präsentiert neues Dashboard für Spring Boot](https://jaxenter.de/spring-boot-microservices-44715?utm_source=tw&utm_medium=social&utm_campaign=early)
 - [Problems for Spring Web MVC - A library for handling Problems in Spring Web MVC](https://github.com/zalando/problem-spring-web)
+- [Programmatically add @Controllers to Spring MVC](http://davidwelch.co/java-stack/programmatically-add-controllers-to-spring-mvc)
 
 ## Database
 
