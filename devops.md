@@ -16,3 +16,6 @@
 - [So You’ve Been Paged: A Guide to Incident Response (For Those Who Hate Being Paged)](http://blog.scalyr.com/2016/09/so-youve-been-paged/)
 - [PagerDuty Incident Response process](https://response.pagerduty.com/)
 
+## Configuration Management
+
+- [AWX (Ansible)](https://github.com/ansible/awx)
