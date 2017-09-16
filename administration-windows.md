@@ -21,3 +21,4 @@
 
 - [Debugging Windows Performance issues with ETW](https://randomascii.wordpress.com/)
 - [Microsoft Service Trace Viewer](https://blogs.msdn.microsoft.com/aszego/2010/02/01/tool-of-the-month-microsoft-service-trace-viewer/)
+- [Becoming an WPA Xpert Part 11: Troubleshooting Long Group Policy Processing](https://blogs.technet.microsoft.com/askpfeplat/2014/10/26/becoming-an-wpa-xpert-part-11-troubleshooting-long-group-policy-processing/)
