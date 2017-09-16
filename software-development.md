@@ -33,6 +33,10 @@
 - [UML Designer](http://www.umldesigner.org/)
 - [vexlio - Instantly create precise, beautiful diagrams](https://vexlio.com/)
 
+## Documentation
+
+- [Static site generator](https://gohugo.io/)
+
 ## Code Quality
 
 - [Revue.io - github code review tool](https://revue.io)
