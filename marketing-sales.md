@@ -14,6 +14,8 @@
 - [Sales for Nerds - How to sell as a nerd](http://www.salesfornerds.io/)
 - [servicebot.io - A Platform to Sell Your Services. Subscription billing.Self-service customer portal.Service lifecycle management.](https://servicebot.io/)
 - [Dolibarr Open Source ERP](https://www.dolibarr.org)
+- [Selling to Developers: Ten Lessons Learned](https://www.indiehackers.com/@PovilasKorop/97fda7c81f)
+- [Ask IH: What methods, tools etc. do you use to validate your business ideas?](https://www.indiehackers.com/forum/post/-KrGzHkGfSuao0WQuOPJ)
 
 ## Motivation
 
