@@ -7,6 +7,7 @@
 - [octo.ai - The analytics hypervisor, an operating system to manage all your analytics needs](https://github.com/octoai/octo.ai)
 - [19 companies reveal their full marketing stack](http://www.growhack.com/2016/07/19-companies-reveal-their-marketing-tools/#.V6Bir3NCTqB)
 - [The Developer Marketing Guide](http://devmarketingguide.com/)
+- [The Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist/)
 
 ## Sales
 
