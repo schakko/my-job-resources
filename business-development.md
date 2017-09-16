@@ -8,6 +8,7 @@
 ## Organization 
 
 - [Healthy Org Questions](http://pastebin.com/ueLdcVmQ)
+- [Google: Support your managers with these re:Work tools](https://rework.withgoogle.com/blog/support-managers-with-rework-tools/)
 
 ## Hiring
 
