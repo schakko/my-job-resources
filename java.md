@@ -26,6 +26,7 @@
 - [Unit tests with Excel as datasource](http://www.adam-bien.com/roller/abien/entry/using_excel_as_source_for)
 - [ff4j - Feature Flipping for Java](http://ff4j.org)
 - [ArchUnit - JUnit library for testing architecture of Java applications](github.com/tng/archunit)
+- [End-to-end Tests that Don’t Suck with Puppeteer](https://ropig.com/blog/end-end-tests-dont-suck-puppeteer/)
 
 ## Monitoring
 
