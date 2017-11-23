@@ -19,3 +19,6 @@
 ## Configuration Management
 
 - [AWX (Ansible)](https://github.com/ansible/awx)
+
+## Databases
+- [MySQL infrastructure testing automation at GitHub](https://githubengineering.com/mysql-testing-automation-at-github/)
