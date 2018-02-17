@@ -9,6 +9,9 @@
 - [Bootstrap Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)
 - [CoreUI](http://coreui.io)
 
+## Photos
+- [Deepart.io - Repaint your picture in the style of your favorite artist](https://deepart.io/)
+
 ## Fonts
 ## Colors
 
