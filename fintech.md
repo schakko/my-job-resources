@@ -1,5 +1,8 @@
 # FinTech
 
+## Cryptocurrency
+- [Naivecoin: a tutorial for building a cryptocurrency](http://lhartikk.github.io/)
+
 ## Ethereum
 
 - [Ethereum Whitepaper with detailed information](http://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform)
