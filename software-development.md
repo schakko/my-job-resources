@@ -44,6 +44,7 @@
 ## REST / APIs
 
 - [Best Practices for API Error Handling](http://nordicapis.com/best-practices-api-error-handling/)
+- [Fusio - Open source API management platform](https://www.fusio-project.org/)
 
 ## Languages
 - [Luna - a visual programming language](http://www.luna-lang.org)
