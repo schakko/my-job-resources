@@ -23,3 +23,6 @@
 
 ## Databases
 - [MySQL infrastructure testing automation at GitHub](https://githubengineering.com/mysql-testing-automation-at-github/)
+
+## Deployment
+- [Deployment Strategies Defined](http://blog.itaysk.com/2017/11/20/deployment-strategies-defined)
