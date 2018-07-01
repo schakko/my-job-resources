@@ -27,6 +27,9 @@
 - [Vecta - diagramming for teams](https://vecta.io/)
 - [Pencil - opensource tool for making diagrams and GUI prototyping](https://github.com/evolus/pencil)
 
+## Documentation
+- [RleaxedJS - ReLaXed creates PDF documents interactively using HTML or Pug (a shorthand for HTML)](https://github.com/RelaxedJS/ReLaXed)
+
 ## Business
 
 - [ambar - Open Source document management system](https://github.com/RD17/ambar) 
