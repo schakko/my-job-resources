@@ -20,6 +20,7 @@
 - [material palette](https://www.materialpalette.com/) 
 - [Material Design Palette Generator](http://mcg.mbitson.com/#/)
 - [Colormind - Palette Generator with Deep Learning](http://colormind.io/)
+- [chroma.js - a tiny JavaScript library (14kB) for all kinds of color conversions and color scales](https://github.com/gka/chroma.js)
 
 ## Icons, Graphics, Photos
 
