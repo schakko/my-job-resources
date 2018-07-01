@@ -26,6 +26,7 @@
 ## Diagramms
 - [Vecta - diagramming for teams](https://vecta.io/)
 - [Pencil - opensource tool for making diagrams and GUI prototyping](https://github.com/evolus/pencil)
+- [mermaid - Generation of diagrams and flowcharts from text in a similar manner as markdown.](https://github.com/knsv/mermaid)
 
 ## Documentation
 - [RleaxedJS - ReLaXed creates PDF documents interactively using HTML or Pug (a shorthand for HTML)](https://github.com/RelaxedJS/ReLaXed)
