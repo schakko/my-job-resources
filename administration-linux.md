@@ -19,3 +19,7 @@
 ## Logging
 
 - [Graduate from Sed and Sort to Lnav, the Logfile Navigator](http://innolitics.com/10x/graduate-from-sed-and-sort-to-lnav-the-logfile-navigator/)
+
+## Tools
+
+- [bat - A cat(1) clone with syntax highlighting and Git integration](https://github.com/sharkdp/bat)
