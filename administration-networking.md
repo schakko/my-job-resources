@@ -10,6 +10,7 @@
 
 ## DNS
 - [DNSTrails - The world largest repository of historical DNS data](https://dnstrails.com/)
+- [aquatone - It can discover subdomains on a given domain by using open sources as well as the more common subdomain dictionary brute force approach.](https://github.com/michenriksen/aquatone)
 
 ## Monitoring
 
