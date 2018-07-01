@@ -7,6 +7,7 @@
 - [vavr.io - Scala features for Java 8](http://www.vavr.io/)
 - [javers - Versioning/historizing framework for Java entities](http://javers.org/)
 - [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
+- [Manifold - Manifold is a unique framework that allows developers to dynamically and seamlessly extend Java. Building on this core framework Manifold provides features to make Java development more appealing and productive.](http://manifold.systems/)
 
 ## Spring
 
