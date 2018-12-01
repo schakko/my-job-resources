@@ -22,6 +22,10 @@
 - [Yet Another 10 Common Mistakes Java Developers Make When Writing SQL](https://blog.jooq.org/2014/05/26/yet-another-10-common-mistakes-java-developer-make-when-writing-sql-you-wont-believe-the-last-one)
 - [9 High-Performance Tips when using MySQL with JPA and Hibernate](https://vladmihalcea.com/2017/10/17/9-high-performance-tips-when-using-mysql-with-jpa-and-hibernate/)
 
+## Debuggin
+
+- [Arthas - a Java Diagnostic tool open sourced by Alibaba.](https://github.com/alibaba/arthas)
+
 ## Testing
 
 - [System Rules - A collection of JUnit rules for testing code that uses java.lang.System](http://stefanbirkner.github.io/system-rules/)
