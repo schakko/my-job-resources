@@ -2,6 +2,9 @@
 
 ## Backup
 - [Automatically test your database backups](https://marco.org/2017/02/01/db-backup-testing)
+## MySQL
+
+- [Replication from Percona Server for MySQL to PostgreSQL using pg_chameleon](https://www.percona.com/blog/2018/08/17/replication-from-percona-server-for-mysql-to-postgresql-using-pg_chameleon/)
 
 ### PostgreSQL
 - [barman - backup and recovery manager for PostgreSQL](http://www.pgbarman.org/)
