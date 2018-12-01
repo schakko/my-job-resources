@@ -39,6 +39,7 @@
 ## Social Network
 
 - [monica - Monica makes it easy to remember everything about your friends and family.](https://monicahq.com/)
+- [OpenSlides - ein freies, webbasiertes Präsentations- und Versammlungssystem zur Verwaltung und Projizierung von Tagesordnung, Anträgen und Wahlen einer Versammlung](https://openslides.org/)
 
 ## 3D
 
