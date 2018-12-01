@@ -5,6 +5,9 @@
 - [brendangregg.com - Linux Performance](http://www.brendangregg.com/linuxperf.html)
 - [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 
+## Console
+- [nnn - console file manager like mc](https://github.com/jarun/nnn)
+
 ## Scripting
 
 - [How to use Bats to test your command line tools](https://blog.engineyard.com/2014/bats-test-command-line-tools)
