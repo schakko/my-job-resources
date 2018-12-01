@@ -19,7 +19,7 @@
 - [Selling to Developers: Ten Lessons Learned](https://www.indiehackers.com/@PovilasKorop/97fda7c81f)
 - [Ask IH: What methods, tools etc. do you use to validate your business ideas?](https://www.indiehackers.com/forum/post/-KrGzHkGfSuao0WQuOPJ)
 - [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make)
-
+- [Reddit: "Salesperson here. How can I not suck when Interacting with you folks?"](https://www.reddit.com/r/devops/comments/9hhxaz/salesperson_here_how_can_i_not_suck_when/)
 ## Motivation
 
 - [Ask HN: Do you have a side project you want to sell?](https://news.ycombinator.com/item?id=7656154)
