@@ -38,3 +38,7 @@
 ## Social Network
 
 - [monica - Monica makes it easy to remember everything about your friends and family.](https://monicahq.com/)
+
+## 3D
+
+- [Dust3D is a cross-platform open-source modeling software](https://dust3d.org)
