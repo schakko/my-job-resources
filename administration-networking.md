@@ -27,3 +27,7 @@
 
 - [Cryptosense - Web app for discovering network realms](https://discovery.cryptosense.com/)
 - [Decentralized team passwords with Keepass and Syncthing](https://www.synyx.de/blog/2017-07-12-keepass-team-sync/)
+
+## Various
+
+- [Going Completely Overboard With A Clustered Homelab](https://blog.tjll.net/distributed-homelab-cluster/)
