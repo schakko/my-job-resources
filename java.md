@@ -34,6 +34,7 @@
 - [ff4j - Feature Flipping for Java](http://ff4j.org)
 - [ArchUnit - JUnit library for testing architecture of Java applications](github.com/tng/archunit)
 - [End-to-end Tests that Don’t Suck with Puppeteer](https://ropig.com/blog/end-end-tests-dont-suck-puppeteer/)
+- [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org/)
 
 ## Monitoring
 
