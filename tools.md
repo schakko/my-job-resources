@@ -13,6 +13,8 @@
 - [TreeProjects - Personal database software for home and business](http://personaldatabase.org/)
 - [Pandoc - a universal document converter](https://pandoc.org/)
 - [Outline - removes ads from nytimes, wapo and so on](http://outline.com/)
+- [Glitch.com](https://glitch.com/)
+- [Twine is an open-source tool for telling interactive, nonlinear stories.](https://twinery.org/)
 
 ## Reverse Engineering
 
