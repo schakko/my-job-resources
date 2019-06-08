@@ -14,3 +14,4 @@
 ## Kubernetes
 
 - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Logging in Kubernetes with Elasticsearch, Kibana, and Fluentd](https://mherman.org/blog/logging-in-kubernetes-with-elasticsearch-Kibana-fluentd/)
