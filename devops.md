@@ -25,6 +25,8 @@
 
 - [AWX (Ansible)](https://github.com/ansible/awx)
 - [Mitogen for Ansible is a completely redesigned UNIX connection layer and module runtime for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html)
+- [ARA - ARA saves playbook results to a local or remote database by using an Ansible callback plugin and provides an API to integrate this data in tools and interfaces.](https://github.com/ansible-community/ara/blob/master/README.rst)
+
 
 ## Databases
 - [MySQL infrastructure testing automation at GitHub](https://githubengineering.com/mysql-testing-automation-at-github/)
