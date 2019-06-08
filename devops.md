@@ -19,8 +19,10 @@
 - [PagerDuty Incident Response process](https://response.pagerduty.com/)
 
 ## Configuration Management
+### Ansible
 
 - [AWX (Ansible)](https://github.com/ansible/awx)
+- [Mitogen for Ansible is a completely redesigned UNIX connection layer and module runtime for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html)
 
 ## Databases
 - [MySQL infrastructure testing automation at GitHub](https://githubengineering.com/mysql-testing-automation-at-github/)
