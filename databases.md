@@ -14,6 +14,7 @@
 - [Deep dive into PostgreSQL stats](http://blog.postgresql-consulting.com/2017/02/deep-dive-into-postgres-stats.html?m=1)
 - [Postgres Query Plan Visualization](http://tatiyants.com/postgres-query-plan-visualization/)
 - [Customizing my Postgres Shell](https://www.citusdata.com/blog/2017/07/16/customizing-my-postgres-shell-using-psqlrc/)
+- [pghoard is a PostgreSQL backup daemon and restore tooling that stores backup data in cloud object stores.](https://github.com/aiven/pghoard/blob/master/README.rst)
 
 ## Scaling
 
