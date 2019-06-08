@@ -6,7 +6,7 @@
 
 - [Replication from Percona Server for MySQL to PostgreSQL using pg_chameleon](https://www.percona.com/blog/2018/08/17/replication-from-percona-server-for-mysql-to-postgresql-using-pg_chameleon/)
 
-### PostgreSQL
+## PostgreSQL
 - [barman - backup and recovery manager for PostgreSQL](http://www.pgbarman.org/)
 - [The Internals of PostgreSQL](http://www.interdb.jp/pg/)
 - [Postgrest - REST interface for Postgres databases](https://postgrest.com)
@@ -16,6 +16,7 @@
 - [Customizing my Postgres Shell](https://www.citusdata.com/blog/2017/07/16/customizing-my-postgres-shell-using-psqlrc/)
 - [pghoard - is a PostgreSQL backup daemon and restore tooling that stores backup data in cloud object stores.](https://github.com/aiven/pghoard/blob/master/README.rst)
 - [The most useful Postgres extension: pg_stat_statements](https://www.citusdata.com/blog/2019/02/08/the-most-useful-postgres-extension-pg-stat-statements/)
+- [dbdot is a command line tool that generates DOT description from postgres database schema.](https://github.com/akarki15/dbdot)
 
 ## Scaling
 
