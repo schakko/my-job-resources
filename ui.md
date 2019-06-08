@@ -8,6 +8,7 @@
 - [Free Bootstrap 3 Admin Templates](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
 - [Bootstrap Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet/)
 - [CoreUI](http://coreui.io)
+- [UI Bot](https://www.uibot.app/)
 
 ## Photos
 - [Deepart.io - Repaint your picture in the style of your favorite artist](https://deepart.io/)
