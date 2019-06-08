@@ -12,6 +12,8 @@
 
 - [healthcheck.io - Open source service monitoring](https://github.com/healthchecks/healthchecks)
 - [Blog article about anomaly detection with Skyline and Oculus](https://codeascraft.com/2013/06/11/introducing-kale/)
+- [Monitoring Linux Processes using Prometheus and Grafana](http://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
+- [https://github.com/cloudmarker/cloudmarker/](Cloudmarker - Cloudmarker is a cloud monitoring tool and framework.)
 
 ## Incident management
 
