@@ -33,3 +33,4 @@
 
 ## Deployment
 - [Deployment Strategies Defined](http://blog.itaysk.com/2017/11/20/deployment-strategies-defined)
+- [The Tekton Pipelines - provides k8s-style resources for declaring CI/CD-style pipelines.](https://github.com/tektoncd/pipeline)
