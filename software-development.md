@@ -53,6 +53,8 @@
 ## Test
 - [Katalon -  Automation Solution for Software Testing Team](https://www.katalon.com/)
 - [cypress - JavaScript End to End Testing Framework](https://www.cypress.io/)
+- [TestCafe - A node.js tool to automate end-to-end web testing](https://devexpress.github.io/testcafe/)
+
 
 ## Requirements Engineering
 
