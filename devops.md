@@ -14,6 +14,7 @@
 - [Blog article about anomaly detection with Skyline and Oculus](https://codeascraft.com/2013/06/11/introducing-kale/)
 - [Monitoring Linux Processes using Prometheus and Grafana](http://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
 - [Cloudmarker - Cloudmarker is a cloud monitoring tool and framework.](https://github.com/cloudmarker/cloudmarker/)
+- [ValueStream - provides a centralized view into key DevOps delivery metrics: Issues, Pull Requests, Builds and Deploys.](https://github.com/ImpactInsights/valuestream)
 
 ## Incident management
 
