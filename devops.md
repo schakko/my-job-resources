@@ -16,6 +16,10 @@
 - [Cloudmarker - Cloudmarker is a cloud monitoring tool and framework.](https://github.com/cloudmarker/cloudmarker/)
 - [ValueStream - provides a centralized view into key DevOps delivery metrics: Issues, Pull Requests, Builds and Deploys.](https://github.com/ImpactInsights/valuestream)
 
+## Testing
+- [k6.io - Like unit-testing, for performance](https://k6.io/)
+- [How the k6 Load Testing Tool Is Leveraging Grafana](https://grafana.com/blog/2019/07/22/guest-blog-post-how-the-k6-load-testing-tool-is-leveraging-grafana/)
+
 ## Incident management
 
 - [So You’ve Been Paged: A Guide to Incident Response (For Those Who Hate Being Paged)](http://blog.scalyr.com/2016/09/so-youve-been-paged/)
