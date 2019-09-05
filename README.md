@@ -1,6 +1,15 @@
 # developer-resources
 Resources for developers and administrators
 
+## How to port open Chrome tabs from smartphone to PC
+see https://android.stackexchange.com/questions/56635/how-can-i-export-the-list-of-open-chrome-tabs
+
+- Connect Android smartphone to a PC
+- Start Chrome
+- On smartphone enable USB debugging in the *Developer Tools* settings
+- In Chrome select *More tools > Remote devices*
+- Open tabs in PC chrome and edit markdown files
+
 # Development
 
 - [General](software-development.md)
