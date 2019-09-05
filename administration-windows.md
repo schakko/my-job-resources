@@ -1,6 +1,7 @@
 # Administration: Windows
 
 - [Baretail - Tail for Windows](https://www.baremetalsoft.com/baretail/)
+- [nutshell - a modern shell](https://github.com/nushell/nushell)
 
 ## Privacy
 - [Reclaim Windows 10 - PowerShell Gist](https://gist.github.com/alirobe/7f3b34ad89a159e6daa1)
