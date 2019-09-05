@@ -13,7 +13,7 @@
 - [healthcheck.io - Open source service monitoring](https://github.com/healthchecks/healthchecks)
 - [Blog article about anomaly detection with Skyline and Oculus](https://codeascraft.com/2013/06/11/introducing-kale/)
 - [Monitoring Linux Processes using Prometheus and Grafana](http://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
-- [https://github.com/cloudmarker/cloudmarker/](Cloudmarker - Cloudmarker is a cloud monitoring tool and framework.)
+- [Cloudmarker - Cloudmarker is a cloud monitoring tool and framework.](https://github.com/cloudmarker/cloudmarker/)
 
 ## Incident management
 
@@ -40,3 +40,4 @@
 ## Kubernetes
 - [The Tekton Pipelines - provides k8s-style resources for declaring CI/CD-style pipelines.](https://github.com/tektoncd/pipeline)
 - [argo - Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io)
+- [Octant - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.](https://github.com/vmware/octant)
