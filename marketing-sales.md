@@ -21,6 +21,7 @@
 - [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make)
 - [Reddit: "Salesperson here. How can I not suck when Interacting with you folks?"](https://www.reddit.com/r/devops/comments/9hhxaz/salesperson_here_how_can_i_not_suck_when/)
 [trennd.co - Discover exploding trends](https://trennd.co)
+- [Glimpse - Discover trends before they’re trending](https://meetglimpse.com/)
 
 ## Motivation
 
