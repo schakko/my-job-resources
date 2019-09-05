@@ -1,8 +1,9 @@
 # Administration: General
 
-## Securit
+## Security
 
 - [Bitwarden - Free open source password manager](https://bitwarden.com/)
+- [Yopass - Share Secrets Securely](https://github.com/jhaals/yopass)
 
 ## Storage    
 
