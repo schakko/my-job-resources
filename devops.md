@@ -37,8 +37,3 @@
 
 ### Deployment
 - [Deployment Strategies Defined](http://blog.itaysk.com/2017/11/20/deployment-strategies-defined)
-
-## Kubernetes
-- [The Tekton Pipelines - provides k8s-style resources for declaring CI/CD-style pipelines.](https://github.com/tektoncd/pipeline)
-- [argo - Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io)
-- [Octant - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.](https://github.com/vmware/octant)
