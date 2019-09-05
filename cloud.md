@@ -1,5 +1,7 @@
 # Cloud
 
+- [Cloudstate - Reference implementation for Serverless 2.0](https://cloudstate.io/)
+
 ## Cost
 - [Komiser - Stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations.](https://github.com/mlabouardy/komiser/blob/master/README.md)
 
