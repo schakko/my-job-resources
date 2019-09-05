@@ -14,3 +14,4 @@
 - [Metatron - Open-sourced, Self-service Big Data Discovery Solution](https://metatron.app/)
 - [Mprove - Open Source Business Intelligence for Google BigQuery](https://mprove.io/product/index)
 - [Ananas Analytics - Build Analytics in minutes; Connect data from anywhere. Transform, analyze, and visualize with simple steps](https://ananasanalytics.com/)
+- [Meltano - Open source data dashboarding](http://meltano.com/)
