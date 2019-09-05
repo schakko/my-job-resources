@@ -1,2 +1,5 @@
 # Video
 - [PySceneDetect - is a command-line application and a Python library for detecting scene changes in videos, and automatically splitting the video into separate clips](https://pyscenedetect.readthedocs.io/en/latest/)
+
+# Audio
+- [blossom - A lovely interactive music generator.](https://github.com/generative-music/blossom
