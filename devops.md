@@ -31,7 +31,10 @@
 ## Databases
 - [MySQL infrastructure testing automation at GitHub](https://githubengineering.com/mysql-testing-automation-at-github/)
 
-## Deployment
+## CI/CD
+- [Justifying a CD pipeline to non-technical execs](https://www.reddit.com/r/devops/comments/crai99/justifying_a_cd_pipeline_to_nontechnical_execs/)
+
+### Deployment
 - [Deployment Strategies Defined](http://blog.itaysk.com/2017/11/20/deployment-strategies-defined)
 
 ## Kubernetes
