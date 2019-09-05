@@ -3,6 +3,7 @@
 - [Professional Software Development for Students - Free Book](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [nerdydata - source code finder](https://nerdydata.com/)
+- [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record)
 
 ## MDA
 
