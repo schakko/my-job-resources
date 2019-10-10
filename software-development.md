@@ -7,6 +7,7 @@
 
 ## Education
 - [storytime - Read and write stories about your code instead of documentation](https://storytime.dev/)
+- [Godbolt - Learn how assembly code is generated](https://godbolt.org/)
 
 ## MDA
 
