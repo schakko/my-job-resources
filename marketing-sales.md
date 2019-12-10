@@ -1,5 +1,9 @@
 # Marketing & Sales
 
+## Pricing
+
+- [Pricing niche products: Why sell a mechanical keyboard kit for $1,668?](https://kevinlynagh.com/notes/pricing-niche-products/)
+
 ## Marketing
 
 - [How To Build An Effective Adwords Campaign In 11 Steps](http://www.backlinkfy.com/news/how-to-build-an-effective-adword-campaign)
