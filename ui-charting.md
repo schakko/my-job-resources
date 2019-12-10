@@ -7,3 +7,4 @@
 - [Britechart - Bitecharts is a client-side reusable Charting Library based on D3.js v4 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations](https://eventbrite.github.io/britecharts/)
 - [Muze - Build composable visualizations for the web with a data-first approach](https://www.charts.com/muze)
 - [chart.xkcd - Chart.xkcd is a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts.](https://timqian.com/chart.xkcd/)
+- [roughViz - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.](https://github.com/jwilber/roughViz)
