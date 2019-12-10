@@ -14,3 +14,7 @@
 - [PredictionIO](https://docs.prediction.io/templates/recommendation/quickstart/)
 - [Gandalf - Open-Source Decision Engine for Big-Data](https://gndf.io/)
 - [keras.io - Deep Learning Library for Theano and TensorFlow](https://keras.io/)
+
+## Audio
+- [rev.com - Automated Speech to Text Transcription](https://www.rev.com)
+- [Spleeter is a library to extract drums, vocals and guitars from audio stream](https://github.com/deezer/spleeter)
