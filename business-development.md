@@ -10,6 +10,7 @@
 
 - [Healthy Org Questions](http://pastebin.com/ueLdcVmQ)
 - [Google: Support your managers with these re:Work tools](https://rework.withgoogle.com/blog/support-managers-with-rework-tools/)
+- [keyvalues - Find engineering teams that share your values](https://www.keyvalues.com/)
 
 ## Hiring
 
