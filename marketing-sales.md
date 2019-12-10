@@ -24,6 +24,7 @@
 [trennd.co - Discover exploding trends](https://trennd.co)
 - [Glimpse - Discover trends before they’re trending](https://meetglimpse.com/)
 - [Patrick McKenzie - Building Things To Help Sell The Things You Build](https://vimeo.com/72140534/comments)
+- [40 Rules for Selling - Reddit thread](https://www.reddit.com/r/Entrepreneur/comments/diapg3/40_rules_for_selling/)
 
 ## Motivation
 
