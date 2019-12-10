@@ -16,3 +16,4 @@
 ## Plug-ins
 
 - [weDocs - Documentation made with WordPress](https://wordpress.org/plugins/wedocs)
+- [WP Githuber MD – WordPress Markdown Editor](https://wordpress.org/plugins/wp-githuber-md/)
