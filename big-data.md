@@ -16,3 +16,4 @@
 - [Ananas Analytics - Build Analytics in minutes; Connect data from anywhere. Transform, analyze, and visualize with simple steps](https://ananasanalytics.com/)
 - [Meltano - Open source data dashboarding](http://meltano.com/)
 - [Poli is an easy-to-use SQL reporting application built for SQL lovers!](https://github.com/shzlw/poli/blob/master/README.md)
+- [Rudder is a platform for collecting, storing and routing customer event data to dozens of tools. ](https://github.com/rudderlabs/rudder-server)
