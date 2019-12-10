@@ -22,6 +22,7 @@
 - [Reddit: "Salesperson here. How can I not suck when Interacting with you folks?"](https://www.reddit.com/r/devops/comments/9hhxaz/salesperson_here_how_can_i_not_suck_when/)
 [trennd.co - Discover exploding trends](https://trennd.co)
 - [Glimpse - Discover trends before they’re trending](https://meetglimpse.com/)
+- [Patrick McKenzie - Building Things To Help Sell The Things You Build](https://vimeo.com/72140534/comments)
 
 ## Motivation
 
