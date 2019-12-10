@@ -24,11 +24,11 @@
 - [Selling to Developers: Ten Lessons Learned](https://www.indiehackers.com/@PovilasKorop/97fda7c81f)
 - [Ask IH: What methods, tools etc. do you use to validate your business ideas?](https://www.indiehackers.com/forum/post/-KrGzHkGfSuao0WQuOPJ)
 - [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make)
-- [Reddit: "Salesperson here. How can I not suck when Interacting with you folks?"](https://www.reddit.com/r/devops/comments/9hhxaz/salesperson_here_how_can_i_not_suck_when/)
 [trennd.co - Discover exploding trends](https://trennd.co)
 - [Glimpse - Discover trends before they’re trending](https://meetglimpse.com/)
-- [Patrick McKenzie - Building Things To Help Sell The Things You Build](https://vimeo.com/72140534/comments)
-- [40 Rules for Selling - Reddit thread](https://www.reddit.com/r/Entrepreneur/comments/diapg3/40_rules_for_selling/)
+- [Video: Patrick McKenzie - Building Things To Help Sell The Things You Build](https://vimeo.com/72140534/comments)
+- [Reddit: 40 Rules for Selling](https://www.reddit.com/r/Entrepreneur/comments/diapg3/40_rules_for_selling/)
+- [Reddit: "Salesperson here. How can I not suck when Interacting with you folks?"](https://www.reddit.com/r/devops/comments/9hhxaz/salesperson_here_how_can_i_not_suck_when/)
 
 ## Motivation
 
