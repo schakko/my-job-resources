@@ -29,6 +29,7 @@
 - [Video: Patrick McKenzie - Building Things To Help Sell The Things You Build](https://vimeo.com/72140534/comments)
 - [Reddit: 40 Rules for Selling](https://www.reddit.com/r/Entrepreneur/comments/diapg3/40_rules_for_selling/)
 - [Reddit: "Salesperson here. How can I not suck when Interacting with you folks?"](https://www.reddit.com/r/devops/comments/9hhxaz/salesperson_here_how_can_i_not_suck_when/)
+- [YouTube: The Psychology of Selling: 13 Steps to Selling that Actually Work](https://www.youtube.com/watch?v=p-nQzB51lsE)
 
 ## Motivation
 
