@@ -1,4 +1,6 @@
 # Documentation
+- [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/)
+
 ## Frameworks
 
 - [docusaurus - Docusaurus makes it easy to maintain Open Source documentation websites.](https://docusaurus.io/docs/en/installation)
