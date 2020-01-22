@@ -31,6 +31,8 @@
 - [Reddit: "Salesperson here. How can I not suck when Interacting with you folks?"](https://www.reddit.com/r/devops/comments/9hhxaz/salesperson_here_how_can_i_not_suck_when/)
 - [YouTube: The Psychology of Selling: 13 Steps to Selling that Actually Work](https://www.youtube.com/watch?v=p-nQzB51lsE)
 - [news.ycombinator.com - Lessons from six years as a solo consultant (embeddeduse.com)](https://news.ycombinator.com/item?id=21954581)
+- [xscode - Sell Open Source Software via private Git repositories](https://xscode.com)
+
 ## Motivation
 
 - [Ask HN: Do you have a side project you want to sell?](https://news.ycombinator.com/item?id=7656154)
