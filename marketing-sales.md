@@ -34,6 +34,7 @@
 - [news.ycombinator.com - Lessons from six years as a solo consultant (embeddeduse.com)](https://news.ycombinator.com/item?id=21954581)
 - [xscode - Sell Open Source Software via private Git repositories](https://xscode.com)
 - [cryptolens.io - License and sell your software securely](https://cryptolens.io/)
+- [Talk write-up: "How to build a PaaS for 1500 engineers"](https://srvaroa.github.io/paas/infrastructure/platform/kubernetes/cloud/2020/01/02/talk-how-to-build-a-paas-for-1500-engineers.html)
 
 ## Motivation
 
