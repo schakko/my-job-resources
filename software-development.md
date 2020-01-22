@@ -42,6 +42,7 @@
 - [Best Practices for API Error Handling](http://nordicapis.com/best-practices-api-error-handling/)
 - [Fusio - Open source API management platform](https://www.fusio-project.org/)
 - [httptoolkit - Intercept & view all your HTTP(S), Mock endpoints or entire servers, Rewrite, redirect, or inject errors](https://httptoolkit.tech/mock/)
+- [Insomnie REST Client - Alternative to Postman](https://insomnia.rest/)
 
 ## Languages
 - [Luna - a visual programming language](http://www.luna-lang.org)
