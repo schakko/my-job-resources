@@ -1,6 +1,9 @@
 # Documentation
 - [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/)
 
+## Tools
+- [pandoc - a universal document converter](https://pandoc.org/)
+
 ## Frameworks
 
 - [docusaurus - Docusaurus makes it easy to maintain Open Source documentation websites.](https://docusaurus.io/docs/en/installation)
