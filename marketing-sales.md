@@ -32,6 +32,7 @@
 - [YouTube: The Psychology of Selling: 13 Steps to Selling that Actually Work](https://www.youtube.com/watch?v=p-nQzB51lsE)
 - [news.ycombinator.com - Lessons from six years as a solo consultant (embeddeduse.com)](https://news.ycombinator.com/item?id=21954581)
 - [xscode - Sell Open Source Software via private Git repositories](https://xscode.com)
+- [cryptolens.io - License and sell your software securely](https://cryptolens.io/)
 
 ## Motivation
 
