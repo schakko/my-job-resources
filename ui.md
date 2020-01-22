@@ -14,6 +14,8 @@
 - [Deepart.io - Repaint your picture in the style of your favorite artist](https://deepart.io/)
 
 ## Fonts
+- [Transform your handwriting or calligraphy into a font!](https://www.calligraphr.com/en/)
+
 ## Colors
 
 - http://colovely.nofach.com/
