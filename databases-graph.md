@@ -10,6 +10,7 @@
 - http://www.popotojs.com/
 - [Keylines (Commercial License only)](http://cambridge-intelligence.com/keylines)
 - [Visualizing graphs with CSS](https://github.com/apcj/arrows)
+- [WebGL visualization for displaying animated traffic graphs](https://github.com/Netflix/vizceral)
 
 ## Neo4j
 
