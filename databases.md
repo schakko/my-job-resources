@@ -18,6 +18,7 @@
 - [The most useful Postgres extension: pg_stat_statements](https://www.citusdata.com/blog/2019/02/08/the-most-useful-postgres-extension-pg-stat-statements/)
 - [dbdot is a command line tool that generates DOT description from postgres database schema.](https://github.com/akarki15/dbdot)
 - [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
+- [PostGraphile Instant GraphQL API](https://www.graphile.org/postgraphile/)
 
 ## Scaling
 
