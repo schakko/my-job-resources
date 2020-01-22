@@ -1,4 +1,5 @@
 # Business Development
+- [Consultant Toolbox: Frameworks for Solving Anything](https://www.toptal.com/finance/business-model-consultants/business-problem-solving)
 
 ## Philosophy 
 
