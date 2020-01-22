@@ -8,6 +8,7 @@
 
 ## Console
 - [nnn - console file manager like mc](https://github.com/jarun/nnn)
+- [Directory navigation tool for the command line](https://dystroy.org/broot)
 
 ## Scripting
 
