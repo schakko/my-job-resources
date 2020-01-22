@@ -15,6 +15,7 @@
 - [Atlassian: How to create buzz-worthy marketing plans using a simple template](https://www.atlassian.com/blog/inside-atlassian/how-to-create-marketing-plan-free-template)
 - [SR Booster - Startup Ranking List](https://www.startupranking.com/booster/list)
 - [The SaaS Marketing Bible - 41+ Strategies & Case-Studies](https://apollodigital.io/blog/saas-marketing)
+- [sizle.io - Bring your slide decks to life](https://sizle.io/)
 
 ## Sales
 
