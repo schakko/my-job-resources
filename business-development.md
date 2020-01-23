@@ -40,3 +40,6 @@
 ## Salary
 
 - [Never accept a counter offer](https://vtorosyan.github.io/never-accept-counter-offer/)
+
+## Personality
+- [16 Personalities (my personality result)](https://www.16personalities.com/infj-personality)
