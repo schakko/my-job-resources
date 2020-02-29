@@ -4,6 +4,7 @@
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [nerdydata - source code finder](https://nerdydata.com/)
 - [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record)
+- [Software Development as Creative Expression: The Importance of Norms and Style](https://www.racecondition.software/blog/not-a-science/)
 
 ## Education
 - [storytime - Read and write stories about your code instead of documentation](https://storytime.dev/)
