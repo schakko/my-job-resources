@@ -12,7 +12,3 @@
 ## Data
 
 - [Singer is an open-source standard for writing scripts that move data](https://www.singer.io)
-
-## Notification
-
-- [Netflix: Introducing Dispatch](https://medium.com/@NetflixTechBlog/introducing-dispatch-da4b8a2a8072)
