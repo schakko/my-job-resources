@@ -20,10 +20,14 @@
 - [k6.io - Like unit-testing, for performance](https://k6.io/)
 - [How the k6 Load Testing Tool Is Leveraging Grafana](https://grafana.com/blog/2019/07/22/guest-blog-post-how-the-k6-load-testing-tool-is-leveraging-grafana/)
 
+## Logging
+- [In depth guide to running Elasticsearch in production](https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production/)
+
 ## Incident management
 
 - [So You’ve Been Paged: A Guide to Incident Response (For Those Who Hate Being Paged)](http://blog.scalyr.com/2016/09/so-youve-been-paged/)
 - [PagerDuty Incident Response process](https://response.pagerduty.com/)
+- [Netflix: Introducing Dispatch](https://medium.com/@NetflixTechBlog/introducing-dispatch-da4b8a2a8072)
 
 ## Configuration Management
 ### Ansible
