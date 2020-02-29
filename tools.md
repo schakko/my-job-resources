@@ -33,6 +33,7 @@
 - [Vecta - diagramming for teams](https://vecta.io/)
 - [Pencil - opensource tool for making diagrams and GUI prototyping](https://github.com/evolus/pencil)
 - [memrender - RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid to embed in Github readmes, ](https://github.com/Schachte/Mermrender/blob/master/README.md)
+- [Excalidraw - Draw handwritten diagrams online (open source)](https://excalidraw.com/)
 
 ## Business
 
