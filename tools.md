@@ -43,6 +43,9 @@
 - [monica - Monica makes it easy to remember everything about your friends and family.](https://monicahq.com/)
 - [OpenSlides - ein freies, webbasiertes Präsentations- und Versammlungssystem zur Verwaltung und Projizierung von Tagesordnung, Anträgen und Wahlen einer Versammlung](https://openslides.org/)
 
+## Knowledge
+- [Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources](https://github.com/brettkromkamp/contextualise)
+
 ## 3D
 
 - [Dust3D is a cross-platform open-source modeling software](https://dust3d.org)
