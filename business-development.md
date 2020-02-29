@@ -34,6 +34,7 @@
 - [Entrepreneur's Handbook](https://entrepreneurshandbook.co/)
 - [Summary of 'The Mom Test' ](https://www.slideshare.net/xamde/summary-of-the-mom-test)
 - [IH: How to brainstorm great business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
+- [23 rules to run a software startup with minimum hassle](https://www.joisig.com/rules-software-startup-minimum-hassle)
 
 ## Finance
 
