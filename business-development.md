@@ -33,6 +33,7 @@
 - [SaaS Cheat Sheets](https://chartmogul.com/resources/)
 - [Entrepreneur's Handbook](https://entrepreneurshandbook.co/)
 - [Summary of 'The Mom Test' ](https://www.slideshare.net/xamde/summary-of-the-mom-test)
+- [IH: How to brainstorm great business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
 
 ## Finance
 
