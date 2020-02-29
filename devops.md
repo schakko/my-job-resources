@@ -1,5 +1,7 @@
 # DevOps
 
+- [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
+
 ## Infrastructure
 
 - [The Three Infrastructure Mistakes Your Company Must Not Make](http://firstround.com/review/the-three-infrastructure-mistakes-your-company-must-not-make/)
