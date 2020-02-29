@@ -32,6 +32,7 @@
 - [9 Things I’ve learnt in the 30 days since launching my first startup](https://medium.com/@ronanmason/9-things-ive-learnt-in-the-30-days-since-launching-my-first-startup-fb4fd9d60948)
 - [SaaS Cheat Sheets](https://chartmogul.com/resources/)
 - [Entrepreneur's Handbook](https://entrepreneurshandbook.co/)
+- [Summary of 'The Mom Test' ](https://www.slideshare.net/xamde/summary-of-the-mom-test)
 
 ## Finance
 
