@@ -16,6 +16,7 @@
 - [SR Booster - Startup Ranking List](https://www.startupranking.com/booster/list)
 - [The SaaS Marketing Bible - 41+ Strategies & Case-Studies](https://apollodigital.io/blog/saas-marketing)
 - [sizle.io - Bring your slide decks to life](https://sizle.io/)
+- [WHAT IS BRANDING: A STEP-BY-STEP GUIDE TO SOLIDIFYING YOUR BRAND](https://30kstrategy.com/articles/branding-foundations-what-is-it-and-why-its-important
 
 ## Sales
 
