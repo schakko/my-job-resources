@@ -29,6 +29,7 @@
 - [UUID or GUID as Primary Keys? Be Careful!](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
 - [SQL Keys in Depth](https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html)
 - [Multi-tenant SaaS database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns)
+- [Understanding the EAV data model and when to use it](https://inviqa.com/blog/understanding-eav-data-model-and-when-use-it)
 
 ## Tools
 
