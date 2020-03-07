@@ -10,38 +10,42 @@ see https://android.stackexchange.com/questions/56635/how-can-i-export-the-list-
 - In Chrome select *More tools > Remote devices*
 - Open tabs in PC chrome and edit markdown files
 
-# Development
+# Summaries
+- [How to write a value-based pricing proposal, powered by Jonathan Stark](summaries/proposal.md)
 
-- [General](software-development.md)
-- [Java](java.md)
-- [JavaScript](javascript.md)
+# Links
+## Development
 
-## Databases
+- [General](links/software-development.md)
+- [Java](links/java.md)
+- [JavaScript](links/javascript.md)
 
-- [General](databases.md)
-- [Graph databases](databases-graph.md)
+### Databases
 
-## Administration
+- [General](links/databases.md)
+- [Graph databases](links/databases-graph.md)
 
-- [Networking](administration-networking.md)
-- [Linux](administration-linux.md)
-- [Windows](administration-windows.md)
-- [Web topics](administration-web.md)
+### Administration
 
-## Tools, Applications, Stuff
+- [Networking](links/administration-networking.md)
+- [Linux](links/administration-linux.md)
+- [Windows](links/administration-windows.md)
+- [Web topics](links/administration-web.md)
 
-- [WordPress](wordpress.md)
-- [Various tools and stuff](tools.md)
+### Tools, Applications, Stuff
 
-## User Interfaces
+- [WordPress](links/wordpress.md)
+- [Various tools and stuff](links/tools.md)
 
-- [Colors, Fonts, Themes](ui.md)
-- [Charting](ui-charting.md)
+### User Interfaces
 
-## Soft skills and non-technical stuff
+- [Colors, Fonts, Themes](links/ui.md)
+- [Charting](links/ui-charting.md)
 
-- [Project management](project-management.md)
-- [Skills](skills.md)
-- [Project ideas, potential services](future.md)
-- [Business Development](business-development.md)
-- [Marketing & Sales](marketing-sales.md)
+### Soft skills and non-technical stuff
+
+- [Project management](links/project-management.md)
+- [Skills](links/skills.md)
+- [Project ideas, potential services](links/future.md)
+- [Business Development](links/business-development.md)
+- [Marketing & Sales](links/marketing-sales.md)
