@@ -25,6 +25,7 @@
 - [German article "SAP will Mitarbeitern keine Noten mehr geben"](http://m.faz.net/aktuell/wirtschaft/unternehmen/sap-will-mitarbeitern-kuenftig-keine-noten-mehr-geben-14387186.html)
 - [Is There Any Room for the Not-Passionate Developer?](http://philippe.bourgau.net/is-there-any-room-for-the-not-passionate-developer/)
 - [7 steps to building an engineering competency matrix](https://circleci.com/blog/7-steps-to-building-an-engineering-competency-matrix/)
+- [Founder’s Guide: How to Outsource Software Development in 2020](https://altar.io/founders-guide-how-to-outsource-software-development-2020)
 
 ## Startups
 
@@ -35,11 +36,13 @@
 - [Summary of 'The Mom Test' ](https://www.slideshare.net/xamde/summary-of-the-mom-test)
 - [IH: How to brainstorm great business ideas](https://www.indiehackers.com/post/how-to-brainstorm-great-business-ideas-ab51c3d51c)
 - [23 rules to run a software startup with minimum hassle](https://www.joisig.com/rules-software-startup-minimum-hassle)
+- [Learn how to build your productized service business](https://productizedstartups.com/)
+- [Wanna recession-proof your biz? "Get closer to the money"](https://stackingthebricks.com/get-closer-to-the-money/)
+- [Tips for Founders Sales: Lessons From Starting Two B2B Startups](http://philstrazzulla.com/2020/04/06/tips-for-founders-sales-lessons-from-starting-two-b2b-startups/)
 
 ## Finance
 
 - [VAT for European #SaaS founders: here’s what you need to know](http://www.whiteboardmag.com/what-you-should-know-about-vat-as-a-european-startup-founder/)
-
 ## Salary
 
 - [Never accept a counter offer](https://vtorosyan.github.io/never-accept-counter-offer/)

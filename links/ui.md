@@ -2,6 +2,7 @@
 
 - http://uxdesign.cc/
 - http://www.mobile-patterns.com/
+- [Weekly FREE UI resources straight to your inbox](https://uidesigndaily.com/)
 
 ## Templates & Themes
 - http://www.bootstrapzero.com/ - Twitter Bootstrap based themes

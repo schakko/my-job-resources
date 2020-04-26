@@ -10,6 +10,7 @@
 - [Rundeck is an enterprise orchestration and scheduling platform](https://www.rundeck.com/)
 - [Pulumi - Cloud Native Infrastructure as Code](https://pulumi.io/)
 - [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+- [Backstage - Unified frontend for all your infrastructure tooling, Backstage gets developers up and running faster, which makes them happier](https://backstage.io/)
 
 ## Monitoring
 
@@ -45,6 +46,9 @@
 
 ## CI/CD
 - [Justifying a CD pipeline to non-technical execs](https://www.reddit.com/r/devops/comments/crai99/justifying_a_cd_pipeline_to_nontechnical_execs/)
+- [Flagger - Progressive Delivery Operator for Kubernetes](https://flagger.app/)
+- [nektos - Run your GitHub Actions locally](https://github.com/nektos/act)
+- [Running self-hosted GitHub Actions runners in your Kubernetes cluster](https://sanderknape.com/2020/03/self-hosted-github-actions-runner-kubernetes)
 
 ### Deployment
 - [Deployment Strategies Defined](http://blog.itaysk.com/2017/11/20/deployment-strategies-defined)

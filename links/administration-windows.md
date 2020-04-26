@@ -18,6 +18,7 @@
 - [Best Practices of Securing Active Directory](https://docs.microsoft.com/de-de/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
 - [LAPS (Local Administrator Password Solution) - provides a centralized storage of secrets/passwords in Active Directory (AD) - without additional computers. Each organization’s domain administrators determine which users, such as helpdesk admins, are authorized to read the passwords.](https://technet.microsoft.com/en-us/mt227395.aspx)
 - [The only PowerShell Command you will ever need to find out who did what in Active Directory](https://evotec.xyz/the-only-powershell-command-you-will-ever-need-to-find-out-who-did-what-in-active-directory/)
+- [BloodHound - Six Degrees of Domain Admin; AD penetration testing tool](https://github.com/BloodHoundAD/BloodHound)
 
 ## Debugging
 
