@@ -9,3 +9,5 @@
 - [chart.xkcd - Chart.xkcd is a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts.](https://timqian.com/chart.xkcd/)
 - [roughViz - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.](https://github.com/jwilber/roughViz)
 - [mermaid - Generate diagrams, charts, graphs or flows from markdown-like text via javascript](https://mermaid-js.github.io/mermaid/#/)
+- [Charticulator - Create Bespoke Chart Designs without Programming](https://charticulator.com/)
+- [Textures.js - SVG patterns for Data Visualization](https://riccardoscalco.it/textures/)
