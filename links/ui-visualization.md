@@ -1,4 +1,4 @@
-# User Interface: Charting
+# Charts
 
 - [Compose complex, data-driven visualizations from reusable charts and components with d3.](https://csnw.github.io/d3.compose/)
 - [Reddit DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful/)
@@ -11,3 +11,6 @@
 - [mermaid - Generate diagrams, charts, graphs or flows from markdown-like text via javascript](https://mermaid-js.github.io/mermaid/#/)
 - [Charticulator - Create Bespoke Chart Designs without Programming](https://charticulator.com/)
 - [Textures.js - SVG patterns for Data Visualization](https://riccardoscalco.it/textures/)
+
+# Tables
+- [Tabulator - The easy to use, fully featured, interactive table JavaScript library](http://www.tabulator.info/)
