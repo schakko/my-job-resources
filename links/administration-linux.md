@@ -28,3 +28,6 @@
 ## Tools
 
 - [bat - A cat(1) clone with syntax highlighting and Git integration](https://github.com/sharkdp/bat)
+
+## Networking
+- [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
