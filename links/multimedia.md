@@ -4,3 +4,6 @@
 
 # Audio
 - [blossom - A lovely interactive music generator.](https://github.com/generative-music/blossom)
+
+# Photo
+- [carbon - Beautiful screenshots of source code](https://github.com/carbon-app/carbon/blob/main/README.md)
