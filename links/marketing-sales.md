@@ -38,6 +38,7 @@
 - [cryptolens.io - License and sell your software securely](https://cryptolens.io/)
 - [Talk write-up: "How to build a PaaS for 1500 engineers"](https://srvaroa.github.io/paas/infrastructure/platform/kubernetes/cloud/2020/01/02/talk-how-to-build-a-paas-for-1500-engineers.html)
 - [Lessons from Six Years as a Solo Consultan](https://www.embeddeduse.com/2019/06/26/lessons-from-six-years-as-a-solo-consultant/)
+- [Founder-led Selling: A Design Pattern for Iterative Startup GTM Development & Execution](https://openviewpartners.com/blog/founder-led-selling/)
 
 ## SEO
 - [Posthog: Open source product analytics, for developers](https://posthog.com/)
