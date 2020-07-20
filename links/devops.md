@@ -19,6 +19,7 @@
 - [Monitoring Linux Processes using Prometheus and Grafana](http://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
 - [Cloudmarker - Cloudmarker is a cloud monitoring tool and framework.](https://github.com/cloudmarker/cloudmarker/)
 - [ValueStream - provides a centralized view into key DevOps delivery metrics: Issues, Pull Requests, Builds and Deploys.](https://github.com/ImpactInsights/valuestream)
+- [simpleops.io](https://simpleops.io)
 
 ## Testing
 - [k6.io - Like unit-testing, for performance](https://k6.io/)
