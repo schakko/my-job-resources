@@ -40,6 +40,10 @@
 - [Talk write-up: "How to build a PaaS for 1500 engineers"](https://srvaroa.github.io/paas/infrastructure/platform/kubernetes/cloud/2020/01/02/talk-how-to-build-a-paas-for-1500-engineers.html)
 - [Lessons from Six Years as a Solo Consultan](https://www.embeddeduse.com/2019/06/26/lessons-from-six-years-as-a-solo-consultant/)
 - [Founder-led Selling: A Design Pattern for Iterative Startup GTM Development & Execution](https://openviewpartners.com/blog/founder-led-selling/)
+- [How to sell your APIs](https://medium.com/@bansalnagesh/how-to-sell-your-apis-b4b5c9a273f8)
+- [API as a product. How to sell your work when all you know is a back-end](https://towardsdatascience.com/api-as-a-product-how-to-sell-your-work-when-all-you-know-is-a-back-end-bd78b1449119)
+- [Podcast: How to close your first deals and do follow-ups properly - with Mark Fershteyn of Recapped.io](https://pod.salesforfounders.com/episode/how-to-close-your-first-deals-and-do-follow-ups-properly-with-mark-fershteyn-of-recappedio)
+- [Helen Ryles: Monster thread on Selling Side Projects!](https://twitter.com/HelenRyles/status/1272273127343632389)
 
 ## SEO
 - [Posthog: Open source product analytics, for developers](https://posthog.com/)
