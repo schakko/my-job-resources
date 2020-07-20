@@ -6,6 +6,7 @@
 - [Why I Say No to Big-Money Customers](http://www.inc.com/magazine/201606/jason-fried/saying-no-to-large-enterprise-customers.html)
 - [Less stress, more productivity: why working fewer hours is better for you and your employer](https://codewithoutrules.com/2016/08/18/productive-programmer/)
 - [The Watercooler is an online community for leaders looking to become better.](https://thewatercooler.io/)
+- [The Best of Sahil Lavingia: Big Ideas From His Last 3,000 Tweets](https://letter.substack.com/p/the-best-of-sahil-lavingia-big-ideas)
 
 ## Organization 
 
