@@ -3,6 +3,7 @@
 - http://uxdesign.cc/
 - http://www.mobile-patterns.com/
 - [Weekly FREE UI resources straight to your inbox](https://uidesigndaily.com/)
+- [No Design Development - A collection of tools for developers who have little to no artistic talent.](https://nodesign.dev/)
 
 ## Templates & Themes
 - http://www.bootstrapzero.com/ - Twitter Bootstrap based themes
