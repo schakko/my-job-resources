@@ -15,6 +15,8 @@
 - [Problems for Spring Web MVC - A library for handling Problems in Spring Web MVC](https://github.com/zalando/problem-spring-web)
 - [Programmatically add @Controllers to Spring MVC](http://davidwelch.co/java-stack/programmatically-add-controllers-to-spring-mvc)
 - [Effective RESTful Search API In Spring](https://blog.tratif.com/2017/11/23/effective-restful-search-api-in-spring/)
+- [Error Handling Spring Boot Starter](https://github.com/wimdeblauwe/error-handling-spring-boot-starter)
+- [Spring Boot Higher Order Components](https://github.com/jpomykala/spring-higher-order-components)
 
 ## Database
 
@@ -22,7 +24,7 @@
 - [Yet Another 10 Common Mistakes Java Developers Make When Writing SQL](https://blog.jooq.org/2014/05/26/yet-another-10-common-mistakes-java-developer-make-when-writing-sql-you-wont-believe-the-last-one)
 - [9 High-Performance Tips when using MySQL with JPA and Hibernate](https://vladmihalcea.com/2017/10/17/9-high-performance-tips-when-using-mysql-with-jpa-and-hibernate/)
 
-## Debuggin
+## Debugging
 
 - [Arthas - a Java Diagnostic tool open sourced by Alibaba.](https://github.com/alibaba/arthas)
 
