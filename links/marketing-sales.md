@@ -16,7 +16,7 @@
 - [SR Booster - Startup Ranking List](https://www.startupranking.com/booster/list)
 - [The SaaS Marketing Bible - 41+ Strategies & Case-Studies](https://apollodigital.io/blog/saas-marketing)
 - [sizle.io - Bring your slide decks to life](https://sizle.io/)
-- [WHAT IS BRANDING: A STEP-BY-STEP GUIDE TO SOLIDIFYING YOUR BRAND](https://30kstrategy.com/articles/branding-foundations-what-is-it-and-why-its-important
+- [WHAT IS BRANDING: A STEP-BY-STEP GUIDE TO SOLIDIFYING YOUR BRAND](https://30kstrategy.com/articles/branding-foundations-what-is-it-and-why-its-important)
 - [Metalist: Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 
 ## Sales
@@ -44,6 +44,7 @@
 - [API as a product. How to sell your work when all you know is a back-end](https://towardsdatascience.com/api-as-a-product-how-to-sell-your-work-when-all-you-know-is-a-back-end-bd78b1449119)
 - [Podcast: How to close your first deals and do follow-ups properly - with Mark Fershteyn of Recapped.io](https://pod.salesforfounders.com/episode/how-to-close-your-first-deals-and-do-follow-ups-properly-with-mark-fershteyn-of-recappedio)
 - [Helen Ryles: Monster thread on Selling Side Projects!](https://twitter.com/HelenRyles/status/1272273127343632389)
+- [How I made $11,673 in 5 days with an open-source project](https://samuelstancl.me/blog/how-i-made-11k-in-5-days-with-an-open-source-project/)
 
 ## SEO
 - [Posthog: Open source product analytics, for developers](https://posthog.com/)
