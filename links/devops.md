@@ -50,6 +50,7 @@
 - [Flagger - Progressive Delivery Operator for Kubernetes](https://flagger.app/)
 - [nektos - Run your GitHub Actions locally](https://github.com/nektos/act)
 - [Running self-hosted GitHub Actions runners in your Kubernetes cluster](https://sanderknape.com/2020/03/self-hosted-github-actions-runner-kubernetes)
+- [Tekton is a powerful and flexible open-source framework for creating CI/CD systems](https://tekton.dev/)
 
 ### Deployment
 - [Deployment Strategies Defined](http://blog.itaysk.com/2017/11/20/deployment-strategies-defined)
