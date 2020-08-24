@@ -1,1 +1,2 @@
 - [How to ship a mobile app](https://www.runway.team/blog/how-to-ship-a-mobile-app)
+- [The Hierarchy of Marketplaces — Introduction and Level 1](https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e)
