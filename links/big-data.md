@@ -17,3 +17,4 @@
 - [Meltano - Open source data dashboarding](http://meltano.com/)
 - [Poli is an easy-to-use SQL reporting application built for SQL lovers!](https://github.com/shzlw/poli/blob/master/README.md)
 - [Rudder is a platform for collecting, storing and routing customer event data to dozens of tools. ](https://github.com/rudderlabs/rudder-server)
+- [EventNative - is an open source, high-performance, event collection service. Capture all events your application generates and stream to your preferred Data Warehouse with current support for RedShift and BigQuery](https://github.com/ksensehq/eventnative)
