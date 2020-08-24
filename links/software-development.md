@@ -16,6 +16,7 @@
 - [simpl4 - business process goes HTML5 (BPMN/Activiti, Java)](https://github.com/ms123s/simpl4-src)
 - [Argdown - A simple syntax for complex argumentation](https://argdown.org/)
 - [Wildcard: Spreadsheet-Driven Customization of Web Applications](https://www.geoffreylitt.com/wildcard/salon2020/)
+- [appsmith - he quickest way to build dashboards, workflows, forms, or any kind of internal business tool.](https://github.com/appsmithorg/appsmith
 
 ## Prototyping
 - [admin-on-rest - A frontend Framework for building admin applications running in the browser on top of REST services, using ES6, React and Material Design](https://github.com/marmelab/admin-on-rest)
