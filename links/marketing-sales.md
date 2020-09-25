@@ -19,6 +19,7 @@
 - [WHAT IS BRANDING: A STEP-BY-STEP GUIDE TO SOLIDIFYING YOUR BRAND](https://30kstrategy.com/articles/branding-foundations-what-is-it-and-why-its-important)
 - [Metalist: Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 - [How we grew Sentry's monthly active users by rethinking invitations](https://blog.sentry.io/2020/02/12/how-we-grew-sentrys-monthly-active-users-by-rethinking-invitations)
+- [B2B SaaS Marketing Guide - 2020](https://www.kracov.co/writing/b2b-saas-marketing-guide)
 
 ## Sales
 
