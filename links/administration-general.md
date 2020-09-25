@@ -4,6 +4,7 @@
 
 - [Bitwarden - Free open source password manager](https://bitwarden.com/)
 - [Yopass - Share Secrets Securely](https://github.com/jhaals/yopass)
+- [VELES - Open source tool for binary data analysis](https://codisec.com/veles/)
 
 ## Storage    
 
