@@ -2,3 +2,4 @@
 - [The Hierarchy of Marketplaces — Introduction and Level 1](https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e)
 - [abowire - Abowire is an all-in-one Subscription Management software designed to automate recurring billing, collections, contracts, cancellations & much more.](http://abowire.com/)
 - [Stripe-  Pricing low-touch SaaS - How to approach pricing and packaging a new SaaS app, by example](https://stripe.com/en-de/atlas/guides/saas-pricing)
+- [Jonathan Stark on How to Make More Money Without Working More Hours](https://www.youtube.com/watch?v=bQz9Ws04akQ)
