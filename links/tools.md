@@ -38,6 +38,7 @@
 ## Business
 
 - [ambar - Open Source document management system](https://github.com/RD17/ambar) 
+- [Grouparoo - Sync, Segment, and Send your Product Data Everywhere](https://www.grouparoo.com/)
 
 ## Social Network
 
