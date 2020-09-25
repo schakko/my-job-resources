@@ -47,6 +47,7 @@
 - [Fusio - Open source API management platform](https://www.fusio-project.org/)
 - [httptoolkit - Intercept & view all your HTTP(S), Mock endpoints or entire servers, Rewrite, redirect, or inject errors](https://httptoolkit.tech/mock/)
 - [Insomnie REST Client - Alternative to Postman](https://insomnia.rest/)
+- [Pizzly - The OAuth Integration Proxy](https://github.com/Bearer/Pizzly)
 
 ## Languages
 - [Luna - a visual programming language](http://www.luna-lang.org)
