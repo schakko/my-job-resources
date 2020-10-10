@@ -50,7 +50,7 @@ Folgendes gilt bei dem Verkauf **aus** Deutschland in ein anderes Land:
 |Außerhalb der EU|Privatkunden|Nein|Nein|
 |Außerhalb der EU|Unternehmen|Nein|Nein|
 
-Siehe dazu auch https://www.rechnungswesen-portal.de/Fachinfo/Umsatzsteuer-Anwendungsfaelle-und-Vorschriften.html
+Siehe dazu auch https://www.rechnungswesen-portal.de/Fachinfo/Umsatzsteuer-Anwendungsfaelle-und-Vorschriften.html für Kontierungsbeispiele. Daran lässt sich gut ableiten, wann was angegeben werden muss.
 
 # Rechnungen
 
@@ -76,3 +76,20 @@ siehe http://www.impressum-recht.de/impressum-inhalt.html
 - Inhalt des Impressums muss Name, Vorname und E-Mail sein; die Telefonnummer ist nicht relevant
 - Die Steueridentfikationsnummer hat da **nichts** zu suchen
 - Bei einem Gewerbetreibenden muss - falls vorhanden - die USt.-ID angegeben werden
+
+# Internationale Rechnungen
+- Das Stellen von internationalen Rechnungen ist unter https://buchhaltungslexikon.de/lexikon/rechnung-auf-englisch/ sehr gut beschrieben. 
+- Spätestens mit dem Verkauf von Produkten in die USA sollte das Steuerbüro kontaktiert werden, Stichwort W-8BEN-E (https://www.schakko.de/2019/08/15/woocommerce-fur-den-verkauf-von-b2b-software-konfigurieren/)
+
+# Affiliates
+Falls über Google AdSense, ein Affiliate-Netzwerk oder über individuellen Content Werbung geschaltet wird und daraus Einnahmen entstehen, ist Folgendes zu beachten:
+1. Gewerbe anmelden, da es sich um eine Gewinnerzielungsabsicht handelt
+2. Pro-Forma Rechnung an Google AdSense erstellen
+3. Je nach deinem Status fällt Umsatsteuer an.
+
+```
+Die Umsatzsteuer wird nach § 3a UStG dort versteuert, wo der Leistungsempfänger seinen Sitz hat. Für deutsche Google AdSense Nutzer ist dies seit 2009 Irland, wo auch die Umsatzsteuer anfällt. Demnach sind Umsätze in Deutschland nicht steuerbar und damit nicht umsatzsteuerpflichtig.
+
+Da beim Betreiben von Affiliate-Programmen grundsätzlich eine Gewinnerzielungsabsicht unterstellt werden kann, muss auch hier ein Gewerbe vorhanden sein. Bei Affiliate-Programmen greift die gleiche Umsatzsteuerregelung wie bei Einkünften durch Google AdSense. Befindet sich der Affiliate-Partner (also das Affiliate-Netzwerk oder der Produktanbieter) in Deutschland, sind die Einnahmen umsatzsteuerpflichtig. Ansonsten fällt die Umsatzsteuer im Land des Leistungsempfängers an.
+```
+von https://wirelesslife.de/steuern-digitale-nomaden/?_sf_s=adsense
