@@ -17,5 +17,8 @@
 - [Octant - A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.](https://github.com/vmware/octant)
 - [onedev - Super Easy All-In-One DevOps Platform](https://github.com/theonedev/onedev)
 
+## Configuration
+- [Grafana Tanka - Flexible, reusable and concise configuration for Kubernetes](https://github.com/grafana/tanka)
+
 ## Pricing
 - [Managed Kubernetes Price Comparison (2020)](https://devopsdirective.com/posts/2020/03/managed-kubernetes-comparison/)
