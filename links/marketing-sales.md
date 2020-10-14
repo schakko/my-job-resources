@@ -48,6 +48,7 @@
 - [Helen Ryles: Monster thread on Selling Side Projects!](https://twitter.com/HelenRyles/status/1272273127343632389)
 - [How I made $11,673 in 5 days with an open-source project](https://samuelstancl.me/blog/how-i-made-11k-in-5-days-with-an-open-source-project/)
 - [drip.io - Drip is your ecommerce marketing engine. Build personalized customer experiences, drive more revenue, and take your marketing strategy to the next level with Drip.](http://drip.com/)
+- [From an Airtable to $9.2k in Side Income](https://www.swipe.page/p/from-an-airtable-to-10k-in-side-income)
 
 ## SEO
 - [Posthog: Open source product analytics, for developers](https://posthog.com/)
