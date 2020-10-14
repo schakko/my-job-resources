@@ -26,6 +26,7 @@
 - [PostGraphile Instant GraphQL API](https://www.graphile.org/postgraphile/)
 - [Noisia - Harmful workload generator for PostgreSQL.](https://github.com/lesovsky/noisia)
 - [Supabase - The open source Firebase alternative.](https://supabase.io/)
+- [Multi-tenant data isolation with PostgreSQL Row Level Security](https://aws.amazon.com/blogs/database/multi-tenant-data-isolation-with-postgresql-row-level-security/
 
 ## Scaling
 
