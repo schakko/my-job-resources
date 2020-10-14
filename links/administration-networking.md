@@ -23,6 +23,7 @@
 
 - [Build HA storage with ZFS](https://github.com/ewwhite/zfs-ha/wiki)
 - [minio.io - S3 compatible open source storage server](https://minio.io)
+- [SeaweedFS - is a simple and highly scalable distributed file system.](https://github.com/chrislusf/seaweedfs)
 
 ## Security
 
