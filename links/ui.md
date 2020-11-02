@@ -32,6 +32,7 @@
 - http://www.freepik.com/ - Search engine for free vector graphics, PSDs, icons and photos
 - http://webalys.com/ - Free icons
 - [Abstract - Design Workflow for Sketch with Git-like branching](http://abstract.com/)
+- [Free Favicon Maker with SVG](https://formito.com/tools/favicon)
 
 ## Collections
 
