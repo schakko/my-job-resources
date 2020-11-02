@@ -6,3 +6,4 @@
 - [5 App Monetisation Models That Will Get You Filthy Rich (And How To Choose One!)](https://medium.com/@LoganTjm/5-app-monetisation-models-that-will-get-you-filthy-rich-and-how-to-choose-one-9715e47aca21)
 - [The SaaS Financial Model You’ll Actually Use (Updated 2020)](https://baremetrics.com/blog/saas-financial-model)
 - [Subscription or no subscription? That is not the question.](https://ia.net/topics/subscription-or-no-subscription)
+- [How to correctly setup SaaS subscriptions to charge VAT in Europe](https://medium.com/slight-pause/how-to-setup-saas-subscriptions-correctly-to-charge-vat-in-europe-d75d857b5d01)
