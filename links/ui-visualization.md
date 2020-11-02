@@ -11,6 +11,7 @@
 - [mermaid - Generate diagrams, charts, graphs or flows from markdown-like text via javascript](https://mermaid-js.github.io/mermaid/#/)
 - [Charticulator - Create Bespoke Chart Designs without Programming](https://charticulator.com/)
 - [Textures.js - SVG patterns for Data Visualization](https://riccardoscalco.it/textures/)
+- [Vega-Lite: is a high-level visualization grammar. It provides a concise JSON syntax for supporting rapid generation of visualizations to support analysis.](https://vega.github.io/vega-lite-v1/)
 
 # Tables
 - [Tabulator - The easy to use, fully featured, interactive table JavaScript library](http://www.tabulator.info/)
