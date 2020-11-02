@@ -7,3 +7,4 @@
 - [The SaaS Financial Model You’ll Actually Use (Updated 2020)](https://baremetrics.com/blog/saas-financial-model)
 - [Subscription or no subscription? That is not the question.](https://ia.net/topics/subscription-or-no-subscription)
 - [How to correctly setup SaaS subscriptions to charge VAT in Europe](https://medium.com/slight-pause/how-to-setup-saas-subscriptions-correctly-to-charge-vat-in-europe-d75d857b5d01)
+- [A Guide to Marketplaces: Third Edition](https://versionone.vc/marketplaces-guide-ed3/)
