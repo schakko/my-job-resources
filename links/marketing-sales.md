@@ -20,6 +20,7 @@
 - [Metalist: Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 - [How we grew Sentry's monthly active users by rethinking invitations](https://blog.sentry.io/2020/02/12/how-we-grew-sentrys-monthly-active-users-by-rethinking-invitations)
 - [B2B SaaS Marketing Guide - 2020](https://www.kracov.co/writing/b2b-saas-marketing-guide)
+- [Twitter Thread: Make side-projects your marketing departments (@KarthikS2206)](https://mobile.twitter.com/KarthikS2206/status/1318893369905487875)
 
 ## Sales
 
