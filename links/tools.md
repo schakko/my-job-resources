@@ -51,6 +51,7 @@
 ## Knowledge
 - [Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources](https://github.com/brettkromkamp/contextualise)
 - [Talkyard - Open source forum software, brings together the main features from StackOverflow, Discourse, Slack, HackerNews/Reddit, Disqus.](https://github.com/debiki/talkyard/blob/master/README.md)
+- [Dendron - The hierarchical note taking tool that grows as you do](https://www.dendron.so/)
 
 ## 3D
 
