@@ -5,6 +5,7 @@
 - [How do you manage documentation for your SaaS?](https://www.indiehackers.com/post/how-do-you-manage-documentation-for-your-saas-1fdb9985bc)
 - [18 Software Documentation Tools that Do The Hard Work For You](https://www.process.st/software-documentation/)
 - [How to Write Technical Posts (so people will read them)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
+- [How to Write and Format a White Paper](https://www.foleon.com/topics/how-to-write-and-format-a-white-paper)
 
 ## Tools
 - [pandoc - a universal document converter](https://pandoc.org/)
