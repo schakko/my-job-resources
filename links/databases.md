@@ -1,5 +1,7 @@
 # Databases
 
+- [Awesome Database Learning - A list of learning materials to understand databases internals](https://github.com/pingcap/awesome-database-learning)
+
 ## Visualization
 - [DrawERD](https://drawerd.com/)
 - [DB Diagram](https://dbdiagram.io/home)
