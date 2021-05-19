@@ -30,3 +30,5 @@ a local folder of plain text Markdown files.](https://obsidian.md/)
 - [isoflow.io - Create beautiful cloud diagrams in minutes](https://isoflow.io/)
 - [Whimsical is a unified suite of collaboration tools. Great for product specs, wikis, brainstorming, ideation, user flows, architecture diagrams and more.](https://whimsical.com/)
 - [icepanel - System docs for visual people; C4 model](https://icepanel.io/)
+- [blockdiag - simple diagram images generator](http://blockdiag.com/en/)
+
