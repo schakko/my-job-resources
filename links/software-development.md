@@ -8,6 +8,7 @@
 - [My Software Engineering Principles](https://www.malott.co/posts/more-software-engineering-principles.html)
 - [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/)
 - [An ex-Googler's guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/)
+- [10 Things I Wish I’d Learned Sooner After Being a Developer for 10 Years](https://alexlakatos.com/coding/2020/11/17/ten-things-learned-ten-years-developer/)
 
 ## Education
 - [storytime - Read and write stories about your code instead of documentation](https://storytime.dev/)
