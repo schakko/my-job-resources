@@ -20,6 +20,7 @@
 - [courier - The Smartest Way to Design & Deliver Notifications](https://www.courier.com/)
 - [SpreadSimple - A blazing-fast way to create and manage websites using Google Sheets](https://spreadsimple.com/)
 - [Huginn - is a system for building agents that perform automated tasks for you online](https://github.com/huginn/huginn)
+- [Glancer - Create HTML summaries from YouTube videos](https://github.com/rberenguel/glancer)
 
 ## Reverse Engineering
 
