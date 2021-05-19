@@ -5,9 +5,10 @@
 ## Dashboard
 - [Kontena is a smart dashboard for Kubernetes](https://blog.kontena.io/kontena-lens-2-5-released/)
 
-## Logging
+## Logging & Monitoring
 - [Logging in Kubernetes with Elasticsearch, Kibana, and Fluentd](https://mherman.org/blog/logging-in-kubernetes-with-elasticsearch-Kibana-fluentd/)
-
+- [Pixie - Open source Kubernetes observability for developers](https://px.dev/)
+- 
 ## Security
 - [Popeye - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.](https://github.com/derailed/popeye)
 
