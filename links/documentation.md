@@ -33,4 +33,5 @@ a local folder of plain text Markdown files.](https://obsidian.md/)
 - [blockdiag - simple diagram images generator](http://blockdiag.com/en/)
 - [flowchart.fun - Flow charts with intends](https://flowchart.fun/)
 - [kroki - Creates diagrams from textual descriptions](https://kroki.io/)
+- [Archi - The Open Source modelling toolkit for creating ArchiMate models and sketches. Used by Enterprise Architects everywhere](https://www.archimatetool.com/)
 
