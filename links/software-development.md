@@ -6,6 +6,7 @@
 - [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record)
 - [Software Development as Creative Expression: The Importance of Norms and Style](https://www.racecondition.software/blog/not-a-science/)
 - [My Software Engineering Principles](https://www.malott.co/posts/more-software-engineering-principles.html)
+- [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/)
 
 ## Education
 - [storytime - Read and write stories about your code instead of documentation](https://storytime.dev/)
