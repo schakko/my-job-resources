@@ -13,3 +13,6 @@
 ## Data
 
 - [Singer is an open-source standard for writing scripts that move data](https://www.singer.io)
+
+## Backup
+- [Snebu is a high-performance snapshot-style backup system for Linux supporting compression, deduplication and optional public key encryption](https://www.snebu.com/)
