@@ -41,6 +41,7 @@
 - [Wanna recession-proof your biz? "Get closer to the money"](https://stackingthebricks.com/get-closer-to-the-money/)
 - [Tips for Founders Sales: Lessons From Starting Two B2B Startups](http://philstrazzulla.com/2020/04/06/tips-for-founders-sales-lessons-from-starting-two-b2b-startups/)
 - [Founders guide to developers](https://www.devocate.com/founders-guide-to-developers/)
+- [Positioning Your Startup is Vital — Here’s How to Nail It](https://review.firstround.com/Positioning-Your-Startup-is-Vital-Heres-How-to-Do-It-Right)
 
 ## Finance
 
