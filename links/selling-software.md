@@ -11,3 +11,4 @@
 - [A Sensible App Store Business Model](https://blog.ailon.org/a-sensible-app-store-business-model-bab14390328d)
 - [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [Plaza - A set of APIs helping marketplaces to comply with new international tax regulations](https://www.octobat.com/products/plaza)
+- [Platform Monetization: Dealing with High Adoption Barriers](https://breadcrumb.vc/platform-monetization-dealing-with-high-adoption-barriers-57eed4e15836)
