@@ -23,6 +23,7 @@
 - [Twitter Thread: Make side-projects your marketing departments (@KarthikS2206)](https://mobile.twitter.com/KarthikS2206/status/1318893369905487875)
 - [Simple CTA trick: Add a few words to your button to handle the user's biggest objection to clicking.](https://twitter.com/goodmarketinghq/status/1343893450777915393?lang=en)
 - [Reify - Great marketing starts with your story; service](https://www.reifyworks.com/)
+- [Where to post your project](https://www.notion.so/Where-to-post-your-project-bc6ce54240884770b2467c3b0f7c1624)
 
 ## Sales
 
