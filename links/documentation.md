@@ -32,4 +32,5 @@ a local folder of plain text Markdown files.](https://obsidian.md/)
 - [icepanel - System docs for visual people; C4 model](https://icepanel.io/)
 - [blockdiag - simple diagram images generator](http://blockdiag.com/en/)
 - [flowchart.fun - Flow charts with intends](https://flowchart.fun/)
+- [kroki - Creates diagrams from textual descriptions](https://kroki.io/)
 
