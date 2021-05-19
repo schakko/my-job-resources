@@ -13,6 +13,7 @@ a local folder of plain text Markdown files.](https://obsidian.md/)
 - [GitHub Docs are now Open Source](https://github.blog/changelog/2020-10-07-github-docs-are-now-open-source/)
 - [Bootiful Asciidoctor - CD pipeline for E-Books](https://bootiful-asciidoctor.github.io/)
 - [https://github.com/Redocly/redoc](redoc)
+- [Cloudockit Automatically Generates Diagrams and Technical Documentation](https://www.cloudockit.com)
 
 ## Frameworks
 
@@ -26,3 +27,5 @@ a local folder of plain text Markdown files.](https://obsidian.md/)
 - [17 TIPS TO BETTER NETWORK DIAGRAMS](http://networkdiagram101.com/)
 - [Diagram generation tool - Describe your diagrams with a simple text language and automatically generate an image you can export.](https://www.diagram.codes/)
 - [isoflow.io - Create beautiful cloud diagrams in minutes](https://isoflow.io/)
+- [Whimsical is a unified suite of collaboration tools. Great for product specs, wikis, brainstorming, ideation, user flows, architecture diagrams and more.](https://whimsical.com/)
+- [icepanel - System docs for visual people; C4 model](https://icepanel.io/)
