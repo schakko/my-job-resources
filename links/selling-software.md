@@ -15,3 +15,5 @@
 
 # Azure
 - [https://github.com/microsoft/commercial-marketplace-samples](Microsoft Commercial Marketplace samples index)
+- [https://microsoftcloudpartner.eventbuilder.com/event/28512/recording](Recording: Developing for Commercial Marketplace - Managed Applications Overview)
+- [https://microsoftcloudpartner.eventbuilder.com/event/38112](Recording: Creating Dynamic UIs for Managed Applications)
