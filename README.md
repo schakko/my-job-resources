@@ -1,6 +1,13 @@
 # developer-resources
 Resources for developers and administrators
 
+## Documentation tool belt
+- UML: [Visual Paradigm](https://online.visual-paradigm.com)
+- UML with Git-commitable source code: [mermaid.js](https://mermaid-js.github.io/mermaid-live-editor/)
+- Architecture: [Archi](https://www.archimatetool.com/)
+- Database diagrams: [dbdiagram.io](https://dbdiagram.io/)
+- Diagrams general: [yEd](https://yworks.com/yed-live)
+
 ## How to port open Chrome tabs from smartphone to PC
 see https://android.stackexchange.com/questions/56635/how-can-i-export-the-list-of-open-chrome-tabs
 
