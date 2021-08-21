@@ -34,6 +34,7 @@
 - [The C4 model for visualising software architecture](https://c4model.com/)
 - [R&A Enterprise Architecture](https://ea.rna.nl/)
 - [awesome-sbom - A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles](https://github.com/awesomeSBOM/awesome-sbom)
+- [Multi-tenant Data for ISVs](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/multi-tenant-data-for-isvs/ba-p/2460059)
 
 ## Visualization
 
