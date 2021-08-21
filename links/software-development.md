@@ -33,6 +33,7 @@
 - [Assuring architectural rules with archunit](http://www.hascode.com/2017/07/assuring-architectural-rules-with-archunit/)
 - [The C4 model for visualising software architecture](https://c4model.com/)
 - [R&A Enterprise Architecture](https://ea.rna.nl/)
+- [awesome-sbom - A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles](https://github.com/awesomeSBOM/awesome-sbom)
 
 ## Visualization
 
