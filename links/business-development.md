@@ -48,6 +48,7 @@
 
 - [VAT for European #SaaS founders: here’s what you need to know](http://www.whiteboardmag.com/what-you-should-know-about-vat-as-a-european-startup-founder/)
 - [Startup financial models - 12 templates compared for SaaS](https://www.stephnass.com/blog/startup-financial-model)
+- [Properly Valuing Contributions](https://qbix.com/blog/2016/11/17/properly-valuing-contributions/)
 
 ## Salary
 
