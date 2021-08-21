@@ -24,6 +24,7 @@
 - [Simple CTA trick: Add a few words to your button to handle the user's biggest objection to clicking.](https://twitter.com/goodmarketinghq/status/1343893450777915393?lang=en)
 - [Reify - Great marketing starts with your story; service](https://www.reifyworks.com/)
 - [Where to post your project](https://www.notion.so/Where-to-post-your-project-bc6ce54240884770b2467c3b0f7c1624)
+- [Nerds Don't Respond To Marketing; Try Technical Documentation Instead](https://hackernoon.com/nerds-dont-respond-to-marketing-try-technical-documentation-instead)
 
 ## Sales
 
