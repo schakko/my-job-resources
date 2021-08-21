@@ -16,6 +16,7 @@
 - [Squills - Turn your professional knowledge into digital products and scale your online consulting business.](https://squills.eu/)
 - [Weekly Deals for Devs - Every week we're bringing you the best deals for dev-related products (courses, ebook, software).](https://weeklydeals.dev/)
 - [Slip -  Build a Programming Course. Earn money while you sleep.](https://www.slip.so/)
+- [Agora is a program that lets you sell files in exchange for Lightning Network payments.](http://agora.download/files/blog/mvp.html)
 
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
