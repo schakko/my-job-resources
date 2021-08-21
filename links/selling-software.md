@@ -13,6 +13,7 @@
 - [Plaza - A set of APIs helping marketplaces to comply with new international tax regulations](https://www.octobat.com/products/plaza)
 - [Platform Monetization: Dealing with High Adoption Barriers](https://breadcrumb.vc/platform-monetization-dealing-with-high-adoption-barriers-57eed4e15836)
 - [GitNFT - Autograph and sell your GitHub commits as NFTs](gitnft.quine.sh)
+- [Squills - Turn your professional knowledge into digital products and scale your online consulting business.](https://squills.eu/)
 
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
