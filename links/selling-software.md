@@ -18,6 +18,7 @@
 - [Slip -  Build a Programming Course. Earn money while you sleep.](https://www.slip.so/)
 - [Agora is a program that lets you sell files in exchange for Lightning Network payments.](http://agora.download/files/blog/mvp.html)
 - [liascript - Share your knowledge and build online courses with simple Markdown!](https://liascript.github.io/)
+- [sell.app - Sell digital goods the easy way](https://sell.app/)
 
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
