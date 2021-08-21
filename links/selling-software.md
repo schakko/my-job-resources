@@ -15,6 +15,7 @@
 - [GitNFT - Autograph and sell your GitHub commits as NFTs](gitnft.quine.sh)
 - [Squills - Turn your professional knowledge into digital products and scale your online consulting business.](https://squills.eu/)
 - [Weekly Deals for Devs - Every week we're bringing you the best deals for dev-related products (courses, ebook, software).](https://weeklydeals.dev/)
+- [Slip -  Build a Programming Course. Earn money while you sleep.](https://www.slip.so/)
 
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
