@@ -12,8 +12,9 @@
 - [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [Plaza - A set of APIs helping marketplaces to comply with new international tax regulations](https://www.octobat.com/products/plaza)
 - [Platform Monetization: Dealing with High Adoption Barriers](https://breadcrumb.vc/platform-monetization-dealing-with-high-adoption-barriers-57eed4e15836)
+- [GitNFT - Autograph and sell your GitHub commits as NFTs](gitnft.quine.sh)
 
 # Azure
-- [https://github.com/microsoft/commercial-marketplace-samples](Microsoft Commercial Marketplace samples index)
-- [https://microsoftcloudpartner.eventbuilder.com/event/28512/recording](Recording: Developing for Commercial Marketplace - Managed Applications Overview)
-- [https://microsoftcloudpartner.eventbuilder.com/event/38112](Recording: Creating Dynamic UIs for Managed Applications)
+- [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
+- [Recording: Developing for Commercial Marketplace - Managed Applications Overview](https://microsoftcloudpartner.eventbuilder.com/event/28512/recording)
+- [Recording: Creating Dynamic UIs for Managed Applications](https://microsoftcloudpartner.eventbuilder.com/event/38112)
