@@ -10,6 +10,7 @@
 - [An ex-Googler's guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/)
 - [10 Things I Wish I’d Learned Sooner After Being a Developer for 10 Years](https://alexlakatos.com/coding/2020/11/17/ten-things-learned-ten-years-developer/)
 - [Code Video Generator is a library that uses the Manim animation engine to automatically generate code walkthrough videos.](https://github.com/sleuth-io/code-video-generator)
+- [The ethics of being a high level tech consultant (a Fractional CTO)](http://www.smashcompany.com/business/the-ethics-of-being-a-high-level-tech-consultant-a-fractional-cto)
 
 ## Education
 - [storytime - Read and write stories about your code instead of documentation](https://storytime.dev/)
