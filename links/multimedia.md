@@ -7,3 +7,4 @@
 
 # Photo
 - [carbon - Beautiful screenshots of source code](https://github.com/carbon-app/carbon/blob/main/README.md)
+- [Supershots - Create Beautiful Screenshots](https://superblog.ai/supershots/)
