@@ -19,6 +19,7 @@
 - [Agora is a program that lets you sell files in exchange for Lightning Network payments.](http://agora.download/files/blog/mvp.html)
 - [liascript - Share your knowledge and build online courses with simple Markdown!](https://liascript.github.io/)
 - [sell.app - Sell digital goods the easy way](https://sell.app/)
+- [Your product is a joke](https://www.eesel.app/blog/your-product-is-a-joke)
 
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
