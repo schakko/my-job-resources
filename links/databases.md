@@ -41,6 +41,7 @@
 - [SQL Keys in Depth](https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html)
 - [Multi-tenant SaaS database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns)
 - [Understanding the EAV data model and when to use it](https://inviqa.com/blog/understanding-eav-data-model-and-when-use-it)
+- [BullFrog - Online Schema Migration, On Demand](http://www.pl-enthusiast.net/2021/06/30/bullfrog-online-schema-migration-on-demand/)
 
 ## Tools
 
