@@ -8,7 +8,8 @@
 ## Logging & Monitoring
 - [Logging in Kubernetes with Elasticsearch, Kibana, and Fluentd](https://mherman.org/blog/logging-in-kubernetes-with-elasticsearch-Kibana-fluentd/)
 - [Pixie - Open source Kubernetes observability for developers](https://px.dev/)
-- 
+- [Sloop - Kubernetes History Visualization](https://github.com/salesforce/sloop)
+
 ## Security
 - [Popeye - Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.](https://github.com/derailed/popeye)
 
