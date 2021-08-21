@@ -12,6 +12,7 @@
 - [Charticulator - Create Bespoke Chart Designs without Programming](https://charticulator.com/)
 - [Textures.js - SVG patterns for Data Visualization](https://riccardoscalco.it/textures/)
 - [Vega-Lite: is a high-level visualization grammar. It provides a concise JSON syntax for supporting rapid generation of visualizations to support analysis.](https://vega.github.io/vega-lite-v1/)
+- [Rawgraphs - The missing link between spreadsheets and data visualization.](https://rawgraphs.io/)
 
 # Tables
 - [Tabulator - The easy to use, fully featured, interactive table JavaScript library](http://www.tabulator.info/)
