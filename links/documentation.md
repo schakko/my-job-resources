@@ -6,6 +6,7 @@
 - [18 Software Documentation Tools that Do The Hard Work For You](https://www.process.st/software-documentation/)
 - [How to Write Technical Posts (so people will read them)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
 - [How to Write and Format a White Paper](https://www.foleon.com/topics/how-to-write-and-format-a-white-paper)
+- [How to write release notes](https://drewdevault.com/2021/05/19/How-to-write-release-notes.html)
 
 ## Tools
 - [pandoc - a universal document converter](https://pandoc.org/)
