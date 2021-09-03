@@ -20,7 +20,8 @@
 - [liascript - Share your knowledge and build online courses with simple Markdown!](https://liascript.github.io/)
 - [sell.app - Sell digital goods the easy way](https://sell.app/)
 - [Your product is a joke](https://www.eesel.app/blog/your-product-is-a-joke)
-
+- [pricewell.io - Build Stripe subscriptions into your website in minutes.](https://www.pricewell.io/)
+- 
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
 - [Recording: Developing for Commercial Marketplace - Managed Applications Overview](https://microsoftcloudpartner.eventbuilder.com/event/28512/recording)
