@@ -59,6 +59,9 @@
 - [Running self-hosted GitHub Actions runners in your Kubernetes cluster](https://sanderknape.com/2020/03/self-hosted-github-actions-runner-kubernetes)
 - [Tekton is a powerful and flexible open-source framework for creating CI/CD systems](https://tekton.dev/)
 
+### Jenkins
+- [Unit Testing pipelines](https://downloads.ctfassets.net/vtn4rfaw6n2j/jenkinsworld2018-robustunit-testingofpipelinecodewithspock-austi/2e3b55dbb9e053208893bf0de39a7d85/jenkins_world_2018_-_robust_unit-testing_of_pipeline_code_with_spock_-_austin_witt.pdf)
+
 ### Deployment
 - [Deployment Strategies Defined](http://blog.itaysk.com/2017/11/20/deployment-strategies-defined)
 - [Flynn - A next generation open source platform as a service (PaaS)](https://github.com/flynn/flynn)
