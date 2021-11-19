@@ -28,3 +28,7 @@
 
 ## Pricing
 - [Managed Kubernetes Price Comparison (2020)](https://devopsdirective.com/posts/2020/03/managed-kubernetes-comparison/)
+
+## .NET
+
+- [Sample project for a Kubernetes friendly ASP.NET core application](https://github.com/Lybecker/k8s-friendly-aspnetcore)
