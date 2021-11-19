@@ -36,6 +36,11 @@
 - [PagerDuty Incident Response process](https://response.pagerduty.com/)
 - [Netflix: Introducing Dispatch](https://medium.com/@NetflixTechBlog/introducing-dispatch-da4b8a2a8072)
 
+## Security
+
+- [sops - is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP](https://github.com/mozilla/sops)
+
+
 ## Configuration Management
 ### Ansible
 
