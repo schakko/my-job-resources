@@ -1,6 +1,7 @@
 # Kubernetes
 ## Tutorials
 - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Microservices with Kubernetes](https://robertbrem.github.io/Microservices_with_Kubernetes)
 
 ## Dashboard
 - [Kontena is a smart dashboard for Kubernetes](https://blog.kontena.io/kontena-lens-2-5-released/)
