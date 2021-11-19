@@ -1,6 +1,7 @@
 # DevOps
 
 - [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
+- [ISO/IEC/IEEE 12207 - Standard for DevOps](http://bls.buu.ac.th/~se888321/2560/00Jan08/8100771-ISO12207-2017.pdf)
 
 ## Infrastructure
 
