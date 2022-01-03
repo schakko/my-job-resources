@@ -45,9 +45,6 @@
 - [ARA - ARA saves playbook results to a local or remote database by using an Ansible callback plugin and provides an API to integrate this data in tools and interfaces.](https://github.com/ansible-community/ara/blob/master/README.rst)
 
 
-## Databases
-- [MySQL infrastructure testing automation at GitHub](https://githubengineering.com/mysql-testing-automation-at-github/)
-
 ## CI/CD
 - [Justifying a CD pipeline to non-technical execs](https://www.reddit.com/r/devops/comments/crai99/justifying_a_cd_pipeline_to_nontechnical_execs/)
 
