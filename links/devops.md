@@ -1,7 +1,6 @@
 # DevOps
+[see dreitier.com wiki](https://dreitier.com/knowledge-base/operate)
 
-- [(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html)
-- [ISO/IEC/IEEE 12207 - Standard for DevOps](http://bls.buu.ac.th/~se888321/2560/00Jan08/8100771-ISO12207-2017.pdf)
 
 ## Infrastructure
 
@@ -36,10 +35,6 @@
 - [So You’ve Been Paged: A Guide to Incident Response (For Those Who Hate Being Paged)](http://blog.scalyr.com/2016/09/so-youve-been-paged/)
 - [PagerDuty Incident Response process](https://response.pagerduty.com/)
 - [Netflix: Introducing Dispatch](https://medium.com/@NetflixTechBlog/introducing-dispatch-da4b8a2a8072)
-
-## Security
-
-- [sops - is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP](https://github.com/mozilla/sops)
 
 
 ## Configuration Management
