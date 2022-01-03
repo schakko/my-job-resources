@@ -25,11 +25,11 @@
 - [simpleops.io](https://simpleops.io)
 
 ## Testing
-- [k6.io - Like unit-testing, for performance](https://k6.io/)
-- [How the k6 Load Testing Tool Is Leveraging Grafana](https://grafana.com/blog/2019/07/22/guest-blog-post-how-the-k6-load-testing-tool-is-leveraging-grafana/)
+[see dreitier.com wiki](https://dreitier.com/knowledge-base/operate/testing)
 
 ## Logging
-- [In depth guide to running Elasticsearch in production](https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production/)
+[see dreitier.com wiki](https://dreitier.com/knowledge-base/operate/logging)
+
 
 ## Incident management
 
@@ -55,18 +55,11 @@
 
 ## CI/CD
 - [Justifying a CD pipeline to non-technical execs](https://www.reddit.com/r/devops/comments/crai99/justifying_a_cd_pipeline_to_nontechnical_execs/)
-- [Flagger - Progressive Delivery Operator for Kubernetes](https://flagger.app/)
-- [nektos - Run your GitHub Actions locally](https://github.com/nektos/act)
-- [Running self-hosted GitHub Actions runners in your Kubernetes cluster](https://sanderknape.com/2020/03/self-hosted-github-actions-runner-kubernetes)
-- [Tekton is a powerful and flexible open-source framework for creating CI/CD systems](https://tekton.dev/)
+
+[see dreitier.com wiki](https://dreitier.com/knowledge-base/build/continuous-integration/github-actions)
 
 ### Jenkins
-- [Unit Testing pipelines](https://downloads.ctfassets.net/vtn4rfaw6n2j/jenkinsworld2018-robustunit-testingofpipelinecodewithspock-austi/2e3b55dbb9e053208893bf0de39a7d85/jenkins_world_2018_-_robust_unit-testing_of_pipeline_code_with_spock_-_austin_witt.pdf)
+[see dreitier.com wiki](https://dreitier.com/knowledge-base/build/continuous-integration/jenkins)
 
 ### Deployment
-- [Deployment Strategies Defined](http://blog.itaysk.com/2017/11/20/deployment-strategies-defined)
-- [Flynn - A next generation open source platform as a service (PaaS)](https://github.com/flynn/flynn)
-- [Dokku - A docker-powered PaaS that helps you build and manage the lifecycle of applications](https://github.com/dokku/dokku)
-- [CapRover - Build your own PaaS in a few minutes!](https://caprover.com/)
-- [Coolify - An open-source, hassle-free, self-hostable Heroku & Netlify alternative.](https://github.com/coollabsio/coolify)
-- [Porter - is a fully-managed PaaS that lets teams automate DevOps. Deploy and manage apps within AWS, GCP, DO, and more.](https://www.getporter.dev/)
+[see dreitier.com wiki](https://dreitier.com/knowledge-base/operate/continuous-delivery-deployment)
