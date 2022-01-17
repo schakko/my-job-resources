@@ -34,3 +34,7 @@
 ## Remote
 
 - [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](https://mobaxterm.mobatek.net/)
+
+
+## WSL
+- [Distrod - is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you.](https://github.com/nullpo-head/wsl-distrod
