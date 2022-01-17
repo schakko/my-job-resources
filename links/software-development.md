@@ -1,5 +1,6 @@
 # Software development
 
+- [Microsoft CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
 - [Professional Software Development for Students - Free Book](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [nerdydata - source code finder](https://nerdydata.com/)
@@ -21,7 +22,7 @@
 - [simpl4 - business process goes HTML5 (BPMN/Activiti, Java)](https://github.com/ms123s/simpl4-src)
 - [Argdown - A simple syntax for complex argumentation](https://argdown.org/)
 - [Wildcard: Spreadsheet-Driven Customization of Web Applications](https://www.geoffreylitt.com/wildcard/salon2020/)
-- [appsmith - he quickest way to build dashboards, workflows, forms, or any kind of internal business tool.](https://github.com/appsmithorg/appsmith
+- [appsmith - he quickest way to build dashboards, workflows, forms, or any kind of internal business tool.](https://github.com/appsmithorg/appsmith)
 
 ## Prototyping
 - [admin-on-rest - A frontend Framework for building admin applications running in the browser on top of REST services, using ES6, React and Material Design](https://github.com/marmelab/admin-on-rest)
