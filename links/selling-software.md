@@ -21,7 +21,10 @@
 - [sell.app - Sell digital goods the easy way](https://sell.app/)
 - [Your product is a joke](https://www.eesel.app/blog/your-product-is-a-joke)
 - [pricewell.io - Build Stripe subscriptions into your website in minutes.](https://www.pricewell.io/)
- 
+- [Hyper - Sell memberships to Discord and Telegram](https://yetanotherstartup.com/p/hyper)
+- [Sex Doesn't Sell, GitHub Does](https://hackernoon.com/sex-doesnt-sell-github-does-uou342x)
+- [unlock.sh - Sell, license and distribute your software](https://unlock.sh/)
+
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
 - [Recording: Developing for Commercial Marketplace - Managed Applications Overview](https://microsoftcloudpartner.eventbuilder.com/event/28512/recording)
