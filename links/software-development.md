@@ -2,6 +2,7 @@
 
 - [Microsoft CSE Code-With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)
 - [Increment - Software Engineering Magazine](https://increment.com/)
+- [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [Professional Software Development for Students - Free Book](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
 - [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
 - [nerdydata - source code finder](https://nerdydata.com/)
