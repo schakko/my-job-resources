@@ -6,6 +6,7 @@
 - [Linux Tracing Systems](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
 - [How To Analyze Performance, Hangs, and High CPU Utilization on Linux](https://community.jaspersoft.com/wiki/how-analyze-performance-hangs-and-high-cpu-utilization-linux)
 - [fq - Tool, language and decoders for working with binary data.](https://github.com/wader/fq)
+- [High System Load with Low CPU Utilization on Linux?](https://tanelpoder.com/posts/high-system-load-low-cpu-utilization-on-linux/)
 
 ## Console
 - [nnn - console file manager like mc](https://github.com/jarun/nnn)
