@@ -26,6 +26,7 @@
 - [Material Design Palette Generator](http://mcg.mbitson.com/#/)
 - [Colormind - Palette Generator with Deep Learning](http://colormind.io/)
 - [chroma.js - a tiny JavaScript library (14kB) for all kinds of color conversions and color scales](https://github.com/gka/chroma.js)
+- [Simpler Color - Create your own complete Web color system fast and easy, from as little as one base color!](https://github.com/arnelenero/simpler-color)
 
 ## Icons, Graphics, Photos
 
