@@ -26,6 +26,7 @@
 - [unlock.sh - Sell, license and distribute your software](https://unlock.sh/)
 - [Two year update: Building an Open Source Marketplace for Kubernetes](https://blog.alexellis.io/kubernetes-marketplace-two-year-update)
 - [HOW DO I BUILD SOMETHING PEOPLE WANT?](https://justinjackson.ca/build)
+- [Selling To The Fortune 500, Government, And Other Lovecraftian Horrors](https://training.kalzumeus.com/newsletters/archive/enterprise_sales)
 
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
