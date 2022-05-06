@@ -25,6 +25,7 @@
 - [Sex Doesn't Sell, GitHub Does](https://hackernoon.com/sex-doesnt-sell-github-does-uou342x)
 - [unlock.sh - Sell, license and distribute your software](https://unlock.sh/)
 - [Two year update: Building an Open Source Marketplace for Kubernetes](https://blog.alexellis.io/kubernetes-marketplace-two-year-update)
+- [HOW DO I BUILD SOMETHING PEOPLE WANT?](https://justinjackson.ca/build)
 
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
