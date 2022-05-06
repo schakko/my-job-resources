@@ -30,6 +30,7 @@
 - [Supabase - The open source Firebase alternative.](https://supabase.io/)
 - [Multi-tenant data isolation with PostgreSQL Row Level Security](https://aws.amazon.com/blogs/database/multi-tenant-data-isolation-with-postgresql-row-level-security/)
 - [Mastering Postgres indexes in 10 minutes](https://fabien.herfray.org/posts/mastering-postgres-indexes-in-10-minutes/)
+- [When Postgres Blocks: 7 Tips for Dealing With Locks](https://dzone.com/articles/when-postgres-blocks-7-tips-for-dealing-with-locks)
 
 ## Scaling
 
