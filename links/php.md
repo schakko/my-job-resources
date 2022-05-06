@@ -6,3 +6,4 @@
 
 ## Laravel packages
 - [EvilAnalytics - An elegant and powerfull alternative to GoogleAnalytics for Laravel application.](https://github.com/Coroxx/EvilAnalytics)
+- [Instant Laravel Admin Panel](https://invoker.dev/)
