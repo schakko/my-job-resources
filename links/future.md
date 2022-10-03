@@ -6,4 +6,4 @@
 - [Indiehackers.com - Founders share their ideas](http://indiehackers.com)
 - [endjin services](https://endjin.com/our-services/)
 - [DemandRush connects you to vetted customers that are ready to subscribe to products you build.](https://www.demandrush.com/)
-
+- [A list of tech coops and resources concerning tech coops and worker owned cooperatives in general.](https://github.com/hng/tech-coops)
