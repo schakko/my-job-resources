@@ -15,6 +15,9 @@
 - [Gandalf - Open-Source Decision Engine for Big-Data](https://gndf.io/)
 - [keras.io - Deep Learning Library for Theano and TensorFlow](https://keras.io/)
 
+## Image
+- [A Human-in-the-loop? workflow for creating HD images from text](https://github.com/jina-ai/dalle-flow)
+- 
 ## Audio
 - [rev.com - Automated Speech to Text Transcription](https://www.rev.com)
 - [Spleeter is a library to extract drums, vocals and guitars from audio stream](https://github.com/deezer/spleeter)
