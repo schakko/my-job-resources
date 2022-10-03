@@ -25,7 +25,8 @@
 - [Argdown - A simple syntax for complex argumentation](https://argdown.org/)
 - [Wildcard: Spreadsheet-Driven Customization of Web Applications](https://www.geoffreylitt.com/wildcard/salon2020/)
 - [appsmith - he quickest way to build dashboards, workflows, forms, or any kind of internal business tool.](https://github.com/appsmithorg/appsmith)
-
+- [taxi - taxi is a language for documenting data - such as data models - and the contracts of APIs.](https://taxilang.org/)
+ 
 ## Prototyping
 - [admin-on-rest - A frontend Framework for building admin applications running in the browser on top of REST services, using ES6, React and Material Design](https://github.com/marmelab/admin-on-rest)
 - [Lowdefy - Build internal tools with YAML; An open-source low-code framework to build web apps, admin panels, BI dashboards, workflows, and CRUD apps with ease.](https://lowdefy.com/)
