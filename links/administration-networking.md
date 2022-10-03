@@ -2,6 +2,7 @@
 - https://cloudcraft.co/
 - [Network protocols for programmers who know at least one programming language](https://www.destroyallsoftware.com/compendium/network-protocols)
 - [comcast - designed to simulate common network problems like latency, bandwidth restrictions, and dropped/reordered/corrupted packets](https://github.com/tylertreat/comcast)
+- [speedbump - TCP proxy with variable latency](https://github.com/kffl/speedbump)
 
 ## Remote
 
