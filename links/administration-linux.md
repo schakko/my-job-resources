@@ -18,6 +18,7 @@
 - [How to use Bats to test your command line tools](https://blog.engineyard.com/2014/bats-test-command-line-tools)
 - [How "Exit Traps" Can Make Your Bash Scripts Way More Robust And Reliable](http://redsymbol.net/articles/bash-exit-traps/)
 - [Ten Things I Wish I’d Known About bash](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
+- [dotcommon - is a crawler that is built to answer questions What are the most common Bash aliases?](https://github.com/Kharacternyk/dotcommon)
 
 ## Performance
 
