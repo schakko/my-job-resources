@@ -1,7 +1,8 @@
 # Video
 - [PySceneDetect - is a command-line application and a Python library for detecting scene changes in videos, and automatically splitting the video into separate clips](https://pyscenedetect.readthedocs.io/en/latest/)
 - [editly - Editly is a tool and framework for declarative NLE (non-linear video editing) using Node.js and ffmpeg. Editly allows you to easily and programmatically create a video from a set of clips, images and titles, with smooth transitions and music overlaid.](https://github.com/mifi/editly)
-
+- [descript.com - Full-featured video editing for anyone that can use a doc.](https://www.descript.com/)
+ 
 # Audio
 - [blossom - A lovely interactive music generator.](https://github.com/generative-music/blossom)
 
