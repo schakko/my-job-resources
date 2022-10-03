@@ -27,6 +27,7 @@
 - [Two year update: Building an Open Source Marketplace for Kubernetes](https://blog.alexellis.io/kubernetes-marketplace-two-year-update)
 - [HOW DO I BUILD SOMETHING PEOPLE WANT?](https://justinjackson.ca/build)
 - [Selling To The Fortune 500, Government, And Other Lovecraftian Horrors](https://training.kalzumeus.com/newsletters/archive/enterprise_sales)
+- [When Negotiating a Price, Never Bid with a Round Number](https://hbswk.hbs.edu/item/when-negotiating-a-price-never-bid-with-a-round-number)
 
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
