@@ -27,6 +27,7 @@
 - [Is There Any Room for the Not-Passionate Developer?](http://philippe.bourgau.net/is-there-any-room-for-the-not-passionate-developer/)
 - [7 steps to building an engineering competency matrix](https://circleci.com/blog/7-steps-to-building-an-engineering-competency-matrix/)
 - [Founder’s Guide: How to Outsource Software Development in 2020](https://altar.io/founders-guide-how-to-outsource-software-development-2020)
+- [open source list of developer questions to ask prospective employers during the hiring process](https://github.com/Twipped/InterviewThis)
 
 ## Startups
 
