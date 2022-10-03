@@ -24,6 +24,7 @@
 - [Wildfire - Record browser actions then replay immediately - craft your own custom automation workflows](https://github.com/iann0036/wildfire)
 - [windmill - Company-wide apps and automations from minimal python scripts****](https://windmill.dev/)
 - [WowTo - WowTo helps you create support, training and educational videos that your viewers can listen in their preferred language](https://www.wowto.ai/)
+- [Crawlee is a web scraping and browser automation library](https://crawlee.dev/)
 
 ## Reverse Engineering
 
