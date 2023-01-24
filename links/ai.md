@@ -17,7 +17,8 @@
 
 ## Image
 - [A Human-in-the-loop? workflow for creating HD images from text](https://github.com/jina-ai/dalle-flow)
-- 
+- [AI imagined images. Pythonic generation of stable diffusion images. - Bearbeiten von Bildern mit AI](https://github.com/brycedrennan/imaginAIry/blob/master/README.md
+
 ## Audio
 - [rev.com - Automated Speech to Text Transcription](https://www.rev.com)
 - [Spleeter is a library to extract drums, vocals and guitars from audio stream](https://github.com/deezer/spleeter)
