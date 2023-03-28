@@ -1,3 +1,5 @@
+- [PriceOps](https://priceops.org)
+- [tier is a tool that lets you define and manage your SaaS application's pricing model following best PriceOps practices.](https://github.com/tierrun)
 - [How to ship a mobile app](https://www.runway.team/blog/how-to-ship-a-mobile-app)
 - [The Hierarchy of Marketplaces — Introduction and Level 1](https://medium.com/@sarahtavel/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e)
 - [abowire - Abowire is an all-in-one Subscription Management software designed to automate recurring billing, collections, contracts, cancellations & much more.](http://abowire.com/)
@@ -29,8 +31,7 @@
 - [Selling To The Fortune 500, Government, And Other Lovecraftian Horrors](https://training.kalzumeus.com/newsletters/archive/enterprise_sales)
 - [When Negotiating a Price, Never Bid with a Round Number](https://hbswk.hbs.edu/item/when-negotiating-a-price-never-bid-with-a-round-number)
 - [paydevs.com - OSS Monetization is Hard!](https://www.paydevs.com/)
-- [PriceOps](https://priceops.org)
-- 
+
 # Azure
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
 - [Recording: Developing for Commercial Marketplace - Managed Applications Overview](https://microsoftcloudpartner.eventbuilder.com/event/28512/recording)
