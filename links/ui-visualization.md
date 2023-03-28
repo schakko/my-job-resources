@@ -1,5 +1,5 @@
 # Charts
-- [perspective - Perspective is an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets](https://perspective.finos.org/
+- [perspective - Perspective is an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets](https://perspective.finos.org/)
 - [Compose complex, data-driven visualizations from reusable charts and components with d3.](https://csnw.github.io/d3.compose/)
 - [Reddit DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful/)
 - [Caravel - a data exploration platform designed to be visual, intuitive, and interactive](https://github.com/airbnb/caravel)
