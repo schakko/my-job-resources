@@ -4,6 +4,9 @@
 - [RoadRunner is a high-performance PHP application server, load-balancer, and process manager written in Golang.](https://roadrunner.dev/)
 - [Setup PHP in GitHub Actions](https://github.com/shivammathur/setup-php)
 
-## Laravel packages
+## Laravel
+- [Building APIs in Laravel](https://laravel-news.com/building-apis-in-laravel)
+
+### Packages
 - [EvilAnalytics - An elegant and powerfull alternative to GoogleAnalytics for Laravel application.](https://github.com/Coroxx/EvilAnalytics)
 - [Instant Laravel Admin Panel](https://invoker.dev/)
