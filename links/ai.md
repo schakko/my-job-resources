@@ -1,6 +1,7 @@
 # AI
 
 ## Text
+- [OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.](https://github.com/LAION-AI/Open-Assistant)
 - [How To Make Custom AI-Generated Text With GPT-2 ](https://minimaxir.com/2019/09/howto-gpt2/)
 
 ## Tutorials
