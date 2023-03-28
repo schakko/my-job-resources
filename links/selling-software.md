@@ -33,6 +33,7 @@
 - [paydevs.com - OSS Monetization is Hard!](https://www.paydevs.com/)
 
 # Azure
+- [Microsoft Marketplace: Mastering Container offers for Kubernetes apps](https://microsoft.github.io/Mastering-the-Marketplace/container/)
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
 - [Recording: Developing for Commercial Marketplace - Managed Applications Overview](https://microsoftcloudpartner.eventbuilder.com/event/28512/recording)
 - [Recording: Creating Dynamic UIs for Managed Applications](https://microsoftcloudpartner.eventbuilder.com/event/38112)
