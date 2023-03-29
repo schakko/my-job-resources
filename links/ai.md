@@ -1,5 +1,9 @@
 # AI
 
+## Video
+- [subvert - Generate subtitles, chapters, and summaries of videos in seconds with the help of OpenAI.](https://github.com/aschmelyun/subvert)
+- [text2video - Generate videos from OpenAI prompts](https://github.com/deforum-art/sd-webui-modelscope-text2video)
+
 ## Text
 - [Semantic search with FAISS](https://huggingface.co/course/chapter5/6?fw=tf)
 - [knowledgegpt is designed to gather information from various sources, including the internet and local data](https://github.com/geeks-of-data/knowledge-gpt)
