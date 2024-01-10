@@ -2,6 +2,7 @@
 
 - [Based upon Jonathan Stark's 'How to write better proposals' webinar session](https://www.youtube.com/watch?v=uzJX9rHLMNM)
 - [Template from Jonathan Stark](https://jonathanstark.com/dl/5_PAGE_PROJECT_PROPOSAL_TEMPLATE.pdf)
+- [Sample retainer proposal from Jonathan](https://jonathanstark.com/dl/Retainer-Proposal-for-BigCo.pdf)
 
 # What is this about and why should I care
 - Would you like to decrease the amount of effort it takes to write project proposals
