@@ -27,7 +27,8 @@
 - [WowTo - WowTo helps you create support, training and educational videos that your viewers can listen in their preferred language](https://www.wowto.ai/)
 - [Crawlee is a web scraping and browser automation library](https://crawlee.dev/)
 - [Stirling-PDF - This is a robust, locally hosted web-based PDF manipulation tool using Docker](https://github.com/Stirling-Tools/Stirling-PDF)
- 
+- [OpenSign - Your ultimate open source PDF E-Signature Solution.](https://www.opensignlabs.com/)
+
 ## Reverse Engineering
 
 - [Reverse Engineering a Bluetooth Lightbulb](https://medium.com/@urish/reverse-engineering-a-bluetooth-lightbulb-56580fcb7546#.z2u1s6end)
