@@ -16,3 +16,4 @@
 
 # Tables
 - [Tabulator - The easy to use, fully featured, interactive table JavaScript library](http://www.tabulator.info/)
+- [visidata - Data exploration at your fingertips](https://visidata.org)
