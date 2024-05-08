@@ -31,6 +31,7 @@
 - [Selling To The Fortune 500, Government, And Other Lovecraftian Horrors](https://training.kalzumeus.com/newsletters/archive/enterprise_sales)
 - [When Negotiating a Price, Never Bid with a Round Number](https://hbswk.hbs.edu/item/when-negotiating-a-price-never-bid-with-a-round-number)
 - [paydevs.com - OSS Monetization is Hard!](https://www.paydevs.com/)
+- [The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
 
 # Azure
 - [Microsoft Marketplace: Mastering Container offers for Kubernetes apps](https://microsoft.github.io/Mastering-the-Marketplace/container/)
