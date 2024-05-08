@@ -13,6 +13,7 @@
 ## Tutorials
 - [Machine learning for software developers - A complete daily plan for studying to become a machine learning engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [Practical Deep Learning Course](http://course.fast.ai)
+- [Learn how AI works from a real LLM implemented entirely in Excel](https://spreadsheets-are-all-you-need.ai/index.html)
 
 ## Frameworks
 - [Smile - Statistical Machine Intelligence and Learning Engine](http://haifengl.github.io/smile/index.html)
