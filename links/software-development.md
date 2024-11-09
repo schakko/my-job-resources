@@ -89,3 +89,4 @@
 
 - [Streaming Attribute Policy Engine - The reactive open source engine to bring ABAC to you applications supporting steams of attributes for efficient interactive real-time access control.](https://sapl.io/)
 - [Announcing OpenFGA - Auth0’s Open Source Fine Grained Authorization System](https://auth0.com/blog/auth0s-openfga-open-source-fine-grained-authorization-system/)
+- [ImHex - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.](https://github.com/WerWolv/ImHex)
