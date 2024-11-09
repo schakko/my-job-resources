@@ -1,6 +1,7 @@
 # Learning
 
 - [Build an 8-bit computer from scratch](https://eater.net/)
+- [A collection of old and interesting NNTP posts in computer architecture, Linux and Operating Systems](https://yarchive.net/comp/index.html)
 
 # Basics
 
