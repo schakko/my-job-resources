@@ -12,6 +12,8 @@
 - [nnn - console file manager like mc](https://github.com/jarun/nnn)
 - [Directory navigation tool for the command line](https://dystroy.org/broot)
 - [fselect - Find files with SQL-like queries](https://github.com/jhspetersson/fselect)
+- [broot - A new way to see and navigate directory trees](https://github.com/Canop/broot)
+- [delta - A syntax-highlighting pager for git, diff, grep, and blame output](https://github.com/dandavison/delta)
 
 ## Scripting
 
@@ -32,6 +34,7 @@
 ## Tools
 
 - [bat - A cat(1) clone with syntax highlighting and Git integration](https://github.com/sharkdp/bat)
-
+- [tig - text-mode interface for Git](https://jonas.github.io/tig/
+  
 ## Networking
 - [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
