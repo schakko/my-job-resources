@@ -28,6 +28,7 @@
 - [Crawlee is a web scraping and browser automation library](https://crawlee.dev/)
 - [Stirling-PDF - This is a robust, locally hosted web-based PDF manipulation tool using Docker](https://github.com/Stirling-Tools/Stirling-PDF)
 - [OpenSign - Your ultimate open source PDF E-Signature Solution.](https://www.opensignlabs.com/)
+- [Maxun - Open-Source No-Code Web Data Extraction Platform](https://github.com/getmaxun/maxun)
 
 ## Reverse Engineering
 
