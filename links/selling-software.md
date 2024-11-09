@@ -32,7 +32,8 @@
 - [When Negotiating a Price, Never Bid with a Round Number](https://hbswk.hbs.edu/item/when-negotiating-a-price-never-bid-with-a-round-number)
 - [paydevs.com - OSS Monetization is Hard!](https://www.paydevs.com/)
 - [The Arc Product-Market Fit Framework](https://www.sequoiacap.com/article/pmf-framework/)
-
+- [Laudspeaker - is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to Braze / One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product onboarding flows and send product and event triggered emails, sms, push and more.](https://github.com/laudspeaker/laudspeaker)
+  
 # Azure
 - [Microsoft Marketplace: Mastering Container offers for Kubernetes apps](https://microsoft.github.io/Mastering-the-Marketplace/container/)
 - [Microsoft Commercial Marketplace samples index](https://github.com/microsoft/commercial-marketplace-samples)
