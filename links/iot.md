@@ -12,3 +12,4 @@
 ## Other hardware
 - [Gravity: mmWave C4001 24GHz Human Presence Detection Sensor (12 Meters, I2C & UART)](https://www.dfrobot.com/product-2795.html)
 - [Calmfloor - Active floor vibration control](https://calmfloor.com/)
+- [Adafruit SHT45 Trinkey - USB Temperature and Humidity Sensor](https://www.adafruit.com/product/5896)
